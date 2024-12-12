@@ -1,0 +1,1043 @@
+CheeseId,ManufacturerProvCode,ManufacturingTypeEn,MoisturePercent,FlavourEn,CharacteristicsEn,Organic,CategoryTypeEn,MilkTypeEn,MilkTreatmentTypeEn,RindTypeEn,CheeseName,FatLevel
+228,NB,Farmstead,47.0,"Sharp, lactic",Uncooked,0,Firm Cheese,Ewe,Raw Milk,Washed Rind,Sieur de Duplessis (Le),lower fat
+242,NB,Farmstead,47.9,"Sharp, lactic, lightly caramelized",Uncooked,0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Tomme Le Champ Doré,lower fat
+301,ON,Industrial,54.0,"Mild, tangy, and fruity","Pressed and cooked cheese, pasta filata, interiror ripened",0,Firm Cheese,Cow,Pasteurized,,Provolone Sette Fette (Tre-Stelle),lower fat
+303,NB,Farmstead,47.0,Sharp with fruity notes and a hint of wild honey,,0,Veined Cheeses,Cow,Raw Milk,,Geai Bleu (Le),lower fat
+319,NB,Farmstead,49.4,Softer taste,,1,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Gamin (Le),lower fat
+350,NB,Industrial,48.0,,Classic fresh cooking cheeses,0,Fresh Cheese,Cow,Pasteurized,,Paneer (Northumberland Co-operative),lower fat
+374,ON,Industrial,52.0,"Rich, creamy, buttery, both subtle and tangy in taste",,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Goat Brie (Woolwich),lower fat
+375,ON,Industrial,41.0,Mild,"Whitem, smooth, firm textured",0,Firm Cheese,Goat,Pasteurized,,Goat Cheddar (Woolwich),lower fat
+376,ON,Industrial,50.0,Mild,,0,Semi-soft Cheese,Goat,Pasteurized,,Goat Mozarella (Woolwich),lower fat
+378,ON,Industrial,55.0,"Sharp, tangy, salty",With or without brine,0,Soft Cheese,Goat,Pasteurized,,Goat Feta (Woolwich),lower fat
+379,ON,Industrial,57.0,Rich and creamy,Fresh cheese,0,Fresh Cheese,Goat,Pasteurized,,Madame Chèvre Elite,lower fat
+414,BC,Farmstead,34.0,,"Organic. Made with Jersey Milk as such very rich, creamy and pleasing colour",1,Semi-soft Cheese,Cow,Raw Milk,,Gouda (Jerseyland Organic),higher fat
+415,BC,Farmstead,34.0,,Organic. No dye/colour added.  Made from Jersey Milk,1,Semi-soft Cheese,Cow,Raw Milk,,Cheddar (Jerseyland Organic),higher fat
+416,BC,Farmstead,33.0,,Organic. Our grana's are Parmesan and Asiago; these are from our own Jersey milk. No colouring added,1,Hard Cheese,Cow,Raw Milk,,Grana (Jerseyland Organic),higher fat
+417,BC,Farmstead,43.0,Creamy and rich tasting.  Creamy in colour due to the carotene in Jersey milk,Organic. Made with Jersey milk,1,Soft Cheese,Cow,Raw Milk,,Feta (Jerseyland Organic),higher fat
+418,BC,Farmstead,34.0,"Available : Plain , garlic and dill, mixed herbs",Organic,1,Semi-soft Cheese,Goat,Raw Milk,,Udderly Organic Goat Gouda (Jerseyland Organic),higher fat
+419,BC,Farmstead,43.0,"Available : Plain,  sundried tomato and herbs",Organic,1,Soft Cheese,Goat,Raw Milk,,Udderly Organic Goat Feta (Jerseyland Organic),higher fat
+629,BC,Artisan,41.0,"Spiked with a slightly warm, premium, cracked black pepper","Ripened, creamy cheese",0,Firm Cheese,Cow,Pasteurized,,Cracked Pepper Verdelait,higher fat
+630,BC,Artisan,41.0,"Mild flavour of sweet butter and a delicate, smokey, exotic, lemony finish",,0,Firm Cheese,Cow,Pasteurized,,Cumin Verdelait,higher fat
+631,BC,Artisan,41.0,Flavourful blend of garlic and chives,,0,Firm Cheese,Cow,Pasteurized,,Garlic and Chive Verdelait,higher fat
+632,BC,Artisan,41.0,"Ginger, garlic and local organic wasabi.",,0,Firm Cheese,Cow,Pasteurized,,Wasabi Verdelait,higher fat
+648,BC,Artisan,48.0,Creamy with a note of mushroom,"Ripened,",0,Soft Cheese,Cow,Pasteurized,,Comox Camembert,lower fat
+655,ON,Industrial,45.0,Mild to sharp with light smoky flavour Also available with Omega 3,Supple and smooth with a golden-yellow waxed rind,0,Firm Cheese,Cow,Pasteurized,,Provolone (Silani),lower fat
+656,ON,Industrial,80.0,Milky Also available with Omega 3,"Granular, creamy and soft in texture",0,Fresh Cheese,Cow,Pasteurized,No Rind,Ricotta (Silani),lower fat
+657,AB,Farmstead,43.0,"Basil, black pepper, black pepper and garlic, cumin, dill, fenugreek, friesian cloves, green peppercorn, greeen peppecorn with cayenne, italian herbs","Mild, medium, aged",0,Firm Cheese,Cow,Pasteurized,,Gouda (Sylvan Star Ltd.),lower fat
+658,ON,Farmstead,39.0,"Mild and sweet, nutty and buttery flavour.",Made from Guernsey milk.,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Niagara Gold,higher fat
+662,ON,Industrial,39.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar (Balderson),higher fat
+663,ON,Industrial,39.0,"Five peppers, garlic, dill, chives, fine herbs and tomato, apple etc","Curds, mild, medium, old, extra old, extra old 5 years.",0,Firm Cheese,Cow,Pasteurized,,Cheddars (Fromagerie St-Albert),higher fat
+664,NS,Farmstead,42.0,"Mild, medium, old, caraway, cumin, cumin and cloves, fines herbs, garlic, pepper mix, smoked.","Natural rind, shaped into wheels, smooth",0,Firm Cheese,Cow,Thermised,,Gouda (That Dutchman's Farm),lower fat
+665,NS,Farmstead,42.0,"Delicate, a bit spicy.",Blue cheese dipped in black wax,0,Soft Cheese,Cow,Raw Milk,,Dragon's Breath,lower fat
+667,ON,Industrial,55.0,Mild,,0,Fresh Cheese,Cow,Pasteurized,No Rind,Feta (Black Diamond),lower fat
+721,ON,Artisan,60.0,Mild tangy taste,Creamy,0,Fresh Cheese,Ewe,Pasteurized,No Rind,Brebis frais (Best Baa Dairy),lower fat
+722,ON,Artisan,42.0,Mild,"Creamy, covered with a green wax",0,Semi-soft Cheese,Ewe,Raw Milk,,Eweda cru (Best Baa Dairy),higher fat
+723,ON,Artisan,55.0,,"White rind, creamier than camembert",0,Soft Cheese,Ewe,Pasteurized,Bloomy Rind,Ramembert (Best Baa Dairy),lower fat
+724,ON,Artisan,,Mild,Creamy,0,Fresh Cheese,Ewe,Pasteurized,,Feta (Best Baa Dairy),lower fat
+728,ON,Industrial,34.0,"Mild, medium, extra-old, 4 and 5 year-old",White and orange,0,Firm Cheese,Cow,Thermised,No Rind,Cheddar (Bright Brand),higher fat
+730,ON,Artisan,47.0,,,0,Semi-soft Cheese,Ewe,Pasteurized,,Eweda (Best Baa Dairy),higher fat
+731,ON,Artisan,48.0,,,0,Semi-soft Cheese,Ewe,Raw Milk,,Mouton rouge (Best Baa Dairy),higher fat
+732,ON,Artisan,58.0,,,0,Semi-soft Cheese,Ewe,Raw Milk,,Brigitte (Best Baa Dairy),lower fat
+756,NS,Industrial,44.0,,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarella (Farmers Cooporative Dairies),lower fat
+777,BC,Artisan,48.0,White truffles,Creamy,0,Soft Cheese,Cow,Pasteurized,,Okanagan Double Cream Camembert,higher fat
+778,BC,Artisan,47.0,Intense Blue Flavour,,0,Veined Cheeses,Cow,Pasteurized,,Tiger Blue,lower fat
+779,BC,Artisan,54.0,Mild,Creamy,0,Veined Cheeses,Cow,Pasteurized,,Naramata Bench Blue,lower fat
+780,BC,Artisan,54.0,,,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Harvest Moon,lower fat
+786,BC,Artisan,40.0,,,0,Firm Cheese,Goat,Thermised,No Rind,Swiss (Village Cheese),higher fat
+787,BC,Artisan,41.0,,,0,Semi-soft Cheese,Goat,Thermised,,Havarti (Village Cheese),higher fat
+788,BC,Artisan,40.0,,,0,Firm Cheese,Goat,Thermised,,Edam (Village Cheese),higher fat
+790,BC,Artisan,32.0,,,0,Hard Cheese,Cow,Thermised,,Parmesan (Village Cheese),lower fat
+791,BC,Artisan,40.0,,,0,Firm Cheese,Goat,Thermised,,Monterey Jack (Village Cheese),lower fat
+792,BC,Artisan,40.0,,,0,Firm Cheese,Goat,Thermised,No Rind,Swiss Alpine Meadow (Village Cheese),higher fat
+794,BC,Artisan,38.0,,,0,Semi-soft Cheese,Goat,Thermised,,Mozzarella (Village Cheese),higher fat
+795,BC,Artisan,40.0,,,0,Firm Cheese,Goat,Thermised,,Gouda (Village Cheese),lower fat
+796,BC,Artisan,41.0,,,0,Firm Cheese,Goat,Thermised,,Brick (Village Cheese),higher fat
+804,ON,Industrial,39.0,"Delicate, sweet and nutty flavour",,0,Firm Cheese,Cow,Pasteurized,,Asiago (Tre Stelle),higher fat
+806,ON,Industrial,50.0,Buttery taste.,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Château Versailles Brie (Tre Stelle),lower fat
+807,MB,Farmstead,37.0,,,1,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar (Bothwell),higher fat
+808,MB,Farmstead,40.0,Sweet and slightly nutty taste,Buttery texture,0,Firm Cheese,Cow,Pasteurized,No Rind,Swiss (Bothwell),lower fat
+809,MB,Farmstead,42.0,"Salty and sweet with a mild, nutty taste",Also manufactures a Smoked Gouda,0,Firm Cheese,Cow,Pasteurized,No Rind,Gouda (Bothwell),lower fat
+810,MB,Farmstead,42.0,"Mild, sweet and slightly nutty taste","Also available the ""Jalapeno Pepper Jack""",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Monterey Jack (Bothwell),lower fat
+812,NL,Industrial,39.0,,"Old, Medium, Mild, Marble and Old White Cheddars",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddars (Central Dairies),higher fat
+813,BC,Artisan,68.0,,,0,Soft Cheese,Cow,Pasteurized,,San Pareil,lower fat
+814,BC,Artisan,,,Welsh-style cheese,0,Hard Cheese,Cow,Raw Milk,,Caerphilly,higher fat
+815,BC,Artisan,40.0,Mild tasting,Artisan Cheese,0,Firm Cheese,Cow,Pasteurized,No Rind,Monterey Jill,higher fat
+816,BC,Artisan,38.0,"Onions, garlic, papika and sweet red pepper flakes.",Artisinal cheese,0,Hard Cheese,Cow,Raw Milk,,Qualicum Spice,higher fat
+817,BC,Artisan,44.0,"Plain or marinated in oil, garlic, sun-dried tomatoes and rosemary",,0,Soft Cheese,Cow,Pasteurized,No Rind,Little Qualicum Feta,lower fat
+818,BC,Artisan,38.0,,Artisanal cheese,0,Hard Cheese,Cow,Raw Milk,,Raclette (Little Qualicum),higher fat
+819,BC,Artisan,36.0,Hints of roasted nuts,Artisan Swiss-style Cheese,0,Firm Cheese,Cow,Raw Milk,,Rathtrevor,higher fat
+820,BC,Artisan,47.0,Gentle flavour with a creamy buttery taste,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Comox Brie,lower fat
+821,BC,Artisan,48.0,Delicate note of mushroom,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Triple Cream Camembert,higher fat
+822,BC,Artisan,41.0,Sweet buttery flavour with a mellow taste of herbs.  Nutty overtones with a tangy finish.,,0,Firm Cheese,Cow,Pasteurized,,Amsterdammer,higher fat
+823,BC,Artisan,43.0,,,0,Firm Cheese,Cow,Pasteurized,,Boerenkaas,higher fat
+824,BC,Artisan,39.0,Bold fruity rich-tasting cheese.,Blend of Irish Derby and Italian-style Asiago.,0,Firm Cheese,Cow,Pasteurized,,La Scala,higher fat
+825,BC,Artisan,41.0,A mix of habanero and black pepper.,,0,Firm Cheese,Cow,Pasteurized,,Pacific Pepper Verderlait,higher fat
+826,BC,Artisan,41.0,Spicy with cloves and cumin.,Creamy,0,Firm Cheese,Cow,Pasteurized,,Winterlude Spice Verderlait,higher fat
+827,BC,Artisan,68.0,Mushroom overtones,Velvety white rind,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Island Bries,lower fat
+828,ON,Industrial,,"Soft, delicate and mild buttery flavour.",Smooth ultra-creamy texture,0,Fresh Cheese,Cow,Pasteurized,,Mascarpone (Silani),higher fat
+833,ON,Industrial,55.0,,Low in fat,0,Semi-soft Cheese,Cow,Pasteurized,,Élan (L') (Fromagerie St-Albert),lower fat
+848,ON,Industrial,48.0,Refreshing,"Mild, refreshing, with a smooth  texture.",0,Fresh Cheese,Cow,Pasteurized,No Rind,Bocconcini (Tre Stelle),lower fat
+849,ON,Industrial,40.0,Mild flavor of brie,Smooth,0,Semi-soft Cheese,Cow,Pasteurized,,Borgonzola (Tre Stelle),higher fat
+850,ON,Industrial,42.0,"Milder, milky and sweet acidulous edge",,0,Semi-soft Cheese,Cow,Pasteurized,,Brick (Tre Stelle),lower fat
+859,ON,Industrial,55.0,Salty and tangy,,0,Soft Cheese,Cow,Pasteurized,,Feta (Tre Stelle),lower fat
+865,ON,Industrial,46.0,Buttery with a lightly acidulous taste,Smooth texture,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Havarti (Dofino),higher fat
+867,ON,Industrial,54.0,,"Triple cream, rich, smooth texture",0,Soft Cheese,Cow,Pasteurized,,Mascarpone (Tre Stelle),higher fat
+869,ON,Industrial,48.0,,"Available in Mozzarella - 20% milk fat, 25% milk fat, 16% milk fat, sliced",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarella (Tre Stelle),lower fat
+871,ON,Industrial,22.0,"Rich, fruity and nutty taste.",,0,Hard Cheese,Cow,Pasteurized,No Rind,Parmesan (Tre Stelle),higher fat
+875,BC,Farmstead,,,,1,Firm Cheese,Ewe,Pasteurized,,Aged Sheep Milk Cheese,lower fat
+879,BC,Farmstead,38.0,Rich with a sweet caramel finish,"Also available: mild, medium, light and in many flavours.",1,Firm Cheese,Cow,Thermised,No Rind,Extra Aged Gouda (Gort's Gouda),higher fat
+885,BC,Farmstead,38.0,Nutty flavour,,1,Firm Cheese,Cow,Raw Milk,,Maasdammer,higher fat
+888,ON,Industrial,,medium and marble,Contains probiotics,0,Firm Cheese,Cow,Pasteurized,,Kraft LiveActive,lower fat
+889,ON,Artisan,56.0,"Balkan, middle eastern flavoured cheese","Rich Flavour, similar to ""kaymak"" or ""Lebene"", Balkan, middle eastern flavoured cheese",0,Fresh Cheese,Cow,Pasteurized,,Creamy Feta (Triple A Cheese),lower fat
+890,AB,Industrial,55.0,Slightly salty,Cured in brine,0,Semi-soft Cheese,Cow and Goat,Pasteurized,,Vlahos Feta,lower fat
+891,AB,Industrial,26.0,,,0,Firm Cheese,Ewe and Cow,Pasteurized,,Kefalotri / Saganaki,higher fat
+893,ON,Industrial,20.0,Mild to strong nutty and salty flavour,50-50 Blend of shredded parmesan and romano cheeses,0,Hard Cheese,Cow,Pasteurized,No Rind,Shredded Parmesan with Romano Cheese,lower fat
+902,ON,Industrial,92.0,,,0,Fresh Cheese,Cow,Pasteurized,,Burrino (Salerno),lower fat
+906,ON,Industrial,52.0,Similiar to Provolone,Gourd-shaped similar to Caciocavallo,0,Semi-soft Cheese,Cow,Pasteurized,,Scamorza (Salerno),lower fat
+915,ON,Industrial,45.0,mildly tangy and fruity,,0,Firm Cheese,Cow,Pasteurized,,Provolone (Tre Stelle),lower fat
+916,ON,Industrial,74.0,"Milky, smooth and creamy",,0,Fresh Cheese,Cow,Pasteurized,No Rind,Ricotta (Tre Stelle),lower fat
+922,BC,Farmstead,60.0,"Plain, with garlic/parsley, lemon/pepper or with chanterelle or porcini. Very mild taste.",Very creamy texture,0,Soft Cheese,Goat,Pasteurized,,Okanagan Goat Cheese,lower fat
+923,BC,Farmstead,55.0,"Available with basil and tomato, garlic and oregano",,1,Fresh Cheese,Cow,Thermised,,Feta (Gort's Gouda),lower fat
+928,ON,Industrial,31.0,Very sharp,"Extra firm, white cheese",0,Hard Cheese,Cow,Pasteurized,No Rind,Cheddar (Thornloe),higher fat
+929,ON,Industrial,52.0,,"Also available: ""Fior de Latte"", ""Fior de Latte Treccia"", in block or ball shape.",0,Semi-soft Cheese,Cow,Pasteurized,,Mozzarella (International Cheese),lower fat
+930,ON,Industrial,45.0,Also available: Pignata,,0,Firm Cheese,Cow,Pasteurized,,Santa Lucia Provolone (International Cheese),lower fat
+931,ON,Industrial,62.0,,,0,Fresh Cheese,Cow,Pasteurized,No Rind,Ricotta (International Cheese),lower fat
+932,ON,Industrial,45.0,,,0,Semi-soft Cheese,Cow,Pasteurized,,Scamorza (International Cheese),lower fat
+933,ON,Industrial,52.0,,"A smooth, luxurious texture reminiscent of baked custard, rennet free",0,Fresh Cheese,Cow,Pasteurized,,St.John's Cow (Portuguese),lower fat
+934,ON,Industrial,70.0,,"A soft, yogurt-like texture, delicate curd and sweet milk flavour",0,Fresh Cheese,Goat,Pasteurized,,St. John's Goat (Portuguese),lower fat
+936,ON,Industrial,40.0,Sharp flavour,Dry and smooth texture.,0,Semi-soft Cheese,Cow,Pasteurized,,Corvo Semi-Soft Cheese (Portuguese),higher fat
+937,ON,Industrial,40.0,hint of sourness,Creamy texture,0,Semi-soft Cheese,Cow,Pasteurized,,Sao Miguel,lower fat
+938,ON,Industrial,40.0,almost sweet,,0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Graciosa Semi-Soft Goat Cheese (Portuguese),higher fat
+939,ON,Industrial,50.0,Mild with slightly salty taste,,0,Semi-soft Cheese,Cow,Pasteurized,,Serra  (Portuguese Cheese Company),lower fat
+940,ON,Industrial,52.0,Tangy,Golden yellow,0,Semi-soft Cheese,Cow,Pasteurized,,Vaquinha  (Portuguese),lower fat
+946,ON,Industrial,27.0,"Mild, bittersweet taste","Soft, white cheese",0,Soft Cheese,Cow,Pasteurized,No Rind,Swiss (Thornloe),higher fat
+947,ON,Industrial,41.0,Light and milk with a fresh butter taste,"Rindless, smooth and gleaming surface yellow in color",0,Firm Cheese,Cow,Pasteurized,No Rind,Colby (Thornloe),higher fat
+951,ON,Industrial,52.0,,Also available:  Bocconcini Pearl et regular Bocconcini,0,Soft Cheese,Cow,Pasteurized,,Mini Bocconcini (International Cheese),lower fat
+953,ON,Industrial,45.0,,,1,Firm Cheese,Cow,Pasteurized,,Cacciocavallo (International Cheese),lower fat
+954,ON,Industrial,39.0,,,0,Firm Cheese,Cow,Pasteurized,,Friulano (International Cheese),lower fat
+962,ON,Industrial,57.0,,,0,Semi-soft Cheese,Cow,Pasteurized,,Bocconcini (Salerno),lower fat
+966,ON,Industrial,62.0,,,0,Soft Cheese,Cow,Pasteurized,,Tuma Cheese (Fresh Cheese)(Salerno),lower fat
+967,ON,Industrial,,,,0,Semi-soft Cheese,Cow,Pasteurized,,Mozzarella (Salerno),lower fat
+968,ON,Industrial,42.0,"Mild cheese, becomes stronger with age",Brick is a white to ivory rindless firm cheese with a springy texture.,0,Firm Cheese,Cow,Pasteurized,No Rind,Brick (Salerno),lower fat
+971,ON,Industrial,52.0,,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Caciotta (Salerno),lower fat
+975,ON,Industrial,34.0,Taste is mild and tangy that intensifies with age,"Wheel-shaped with small ridges, yellow rind with an ivory interior",0,Hard Cheese,Cow,Pasteurized,,Romanello (Salerno),lower fat
+988,ON,Industrial,38.0,,,0,Fresh Cheese,Cow and Goat,Pasteurized,No Rind,Ricotta (Skotidakis),lower fat
+990,ON,Artisan,80.0,,Ricotta is made from sweet whey,0,Fresh Cheese,Ewe,Pasteurized,No Rind,Ricotta (Shepherd Gourmet),lower fat
+993,ON,Artisan,55.0,,,0,Semi-soft Cheese,Ewe,Pasteurized,No Rind,Krinos Sheep Feta (Shepherd Gourmet),lower fat
+995,ON,Artisan,68.0,,,0,Fresh Cheese,Goat,Pasteurized,,Fresh Chèvre,lower fat
+1001,ON,Industrial,57.0,"Mild and tangy (plain, fines herbs, peppercorn, roasted garlic)","Smooth, creamy texture.",0,Fresh Cheese,Goat,Pasteurized,,Chevrai (Woolwich),lower fat
+1019,NS,Industrial,55.0,,,0,Semi-soft Cheese,Cow,Pasteurized,,Holmestead Feta,lower fat
+1022,ON,Industrial,40.0,,,0,Firm Cheese,Cow,Pasteurized,,Asiago (Ivanhoe Cheese),higher fat
+1025,ON,Industrial,32.0,,,0,Firm Cheese,Cow,Pasteurized,,Parmesan (Ivanhoe),lower fat
+1026,ON,Industrial,34.0,,,0,Firm Cheese,Cow,Pasteurized,,Romano (Ivanhoe),lower fat
+1027,ON,Industrial,43.0,Plain or Smoked,,0,Firm Cheese,Cow,Pasteurized,,Gouda (Ivanhoe),lower fat
+1028,ON,Industrial,55.0,,,0,Soft Cheese,Cow,Pasteurized,,Feta (Ivanhoe),lower fat
+1042,PE,Farmstead,43.0,"mild, medium old, cumin, fenugreek, 4-pepper, garlic, herb and garlic, onion & red pepper, pepper & mustard, peppercorn, red chili pepper.",,0,Firm Cheese,Cow,Pasteurized,,Gouda (Cheeselady's),lower fat
+1057,ON,Industrial,39.0,"Mild, medium, old, extra-old, supreme ( 3 yr. Old), 4 year-old",,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar (Empire Cheese),higher fat
+1058,ON,Farmstead,37.0,Goaty flavour,White body,0,Hard Cheese,Goat,Pasteurized,,Cheddar (Celebrity International),higher fat
+1059,ON,Farmstead,37.0,Sweet notes,Creamy smooth,0,,Goat,Pasteurized,,Goat Lindsay Bandaged Cheddar (Celebrity International),higher fat
+1060,ON,Industrial,37.0,Herbs and Garlic,Marble,0,Firm Cheese,Goat,Pasteurized,No Rind,Cheddar (Mornington Dairy),higher fat
+1067,ON,Artisan,34.0,Flavour ranges from horseradish to citrus,"Hay colored, natural rind cheese",0,Semi-soft Cheese,Ewe,Raw Milk,,Tomme de Gaston,higher fat
+1086,ON,Industrial,37.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddars (Black Diamond),higher fat
+1087,ON,Industrial,44.0,"Mild, slightly acidulous","Interior-ripened, rindless, pale in colour",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Monterey Jack (Black Diamond),lower fat
+1098,BC,Industrial,,,,0,Soft Cheese,Cow,Pasteurized,,Bocconcini (Scardillo),lower fat
+1103,BC,Industrial,,,,0,Firm Cheese,Cow,Pasteurized,,Edam (Scardillo),lower fat
+1110,BC,Farmstead,27.0,,Stilton-style blue cheese,1,Veined Cheeses,Cow,Raw Milk,,Blossom's Blue,higher fat
+1111,BC,Farmstead,40.0,Pepper flavour,,1,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Savoury Moon,lower fat
+1112,BC,Farmstead,35.0,Strong,Also made with raw milk.,1,Veined Cheeses,Cow,Pasteurized,,Beddis Blue,higher fat
+1113,BC,Farmstead,40.3,,"milder than a camembert, stronger than a brie",1,Soft Cheese,Cow,Pasteurized,Bloomy Rind,White Moon,lower fat
+1114,BC,Farmstead,27.0,Will sweeten on the palate,,1,Hard Cheese,Cow,Raw Milk,,White Grace,higher fat
+1115,BC,Farmstead,40.3,Sweet buttery blue,Fresh blue cheese,1,Veined Cheeses,Cow,Pasteurized,,Baby Blue,lower fat
+1116,BC,Farmstead,40.3,,,1,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Ash-Ripened Camembert,lower fat
+1122,BC,Farmstead,30.0,"Buttery, nutty flavour",,0,Hard Cheese,Cow,Raw Milk,,Tomme d'Or (Moonstruck Organic),lower fat
+1128,MB,Farmstead,42.0,,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Farmers (Bothwell),lower fat
+1129,QC,Farmstead,43.0,,,0,Semi-soft Cheese,Ewe,Raw Milk,Washed Rind,Tomme du Kamouraska (La),higher fat
+1130,QC,Farmstead,45.0,Mild and lactic flavor with a touch of hazelnut.,"Smooth, firm, shiny and creamy texture. Cream-colored.",0,Firm Cheese,Cow,Pasteurized,,Albani (L'),higher fat
+1131,QC,Farmstead,45.0,Lactic and fruity,Orange-colored washed rind sprinkled with white mold. Pressed and uncooked yellowy-creamy colored cheese. Smooth and supple texture. Shows small holes.,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Chant du Coq (Le),lower fat
+1132,QC,Farmstead,52.0,"Flavors of cream, mushrooms and nuts",Creamy to ivory-colored. Smooth and runny texture.,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,François Paradis (Le),higher fat
+1133,QC,Farmstead,52.0,"Cream, mushroom and almond aroma",White and velvety rind. White to creamy-colored interior. Smooth and runny texture.,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Maria Chapdelaine (Le),higher fat
+1134,QC,Farmstead,45.0,"Mild and lactic. Avalaible seasoned with garlic flower, dried tomatoes and basil, italian and provençal herbs","Creamy colored cheddar with a firm, smooth and shiny texture",0,Firm Cheese,Cow,Pasteurized,No Rind,Normandises (Les),higher fat
+1136,QC,Farmstead,52.0,,,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Péribonka (Le),higher fat
+1137,QC,Artisan,50.0,Hazelnut flavor,"Creamy texture, orange rind",0,Soft Cheese,Cow,Pasteurized,Washed Rind,14 Arpents (Le),lower fat
+1138,QC,Artisan,34.0,Fruity,"Cheddar aged under vacuum, unctuous texture",0,Firm Cheese,Cow,Pasteurized,,Gédéon (Le),higher fat
+1139,QC,Artisan,50.0,"Mild, slightly sweet",Mixt shiny rind,0,Soft Cheese,Cow,Pasteurized,,Rang des Îles (Le),lower fat
+1140,QC,Artisan,34.0,Woody,Aged cheddar,0,Firm Cheese,Cow,Raw Milk,,Petits Vieux (Les),higher fat
+1141,QC,Artisan,83.0,,Fresh creamy cheese,0,Fresh Cheese,Cow,Pasteurized,,Couventine (Le),lower fat
+1142,QC,Artisan,39.0,Mild,"Cheddar, curds or blocks",0,Firm Cheese,Cow,Pasteurized,No Rind,Médard (Le),higher fat
+1143,QC,Artisan,52.0,Mushroomy and buttery,Sometimes a chalky center,0,Soft Cheese,Cow,Raw Milk,Bloomy Rind,Brise des Vignerons (La),lower fat
+1144,QC,Artisan,35.0,Fruity and hazelnutty,Light yellow rind,0,Firm Cheese,Cow,Raw Milk,Washed Rind,Zéphyr (Le),higher fat
+1149,QC,Artisan,39.0,"Hazelnut flavor. Available; mild, medium, strong and extra strong",Creamy-colored,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar Beauceron,higher fat
+1150,QC,Artisan,51.7,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar léger 6% (Fromagerie Gilbert),lower fat
+1151,QC,Artisan,47.9,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar léger 12% (Fromagerie Gilbert),lower fat
+1152,QC,Artisan,31.0,,Preserved in brine,0,Firm Cheese,Cow,Pasteurized,No Rind,Torti-Beauceron,higher fat
+1153,QC,Artisan,42.0,Hazelnut flavor that intensifies with age,Cream-colored cheese,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar Le Bourgadet doux,lower fat
+1156,QC,Artisan,42.0,"Hazelnut flavor. Available aged 2 months, 6 months or 2 years",Cheddar-type.  Cream-colored,0,Firm Cheese,Cow,Pasteurized,No Rind,Rivière blanche,lower fat
+1157,QC,Artisan,42.0,Salty,Stretched and twisted cheese,0,Firm Cheese,Cow,Pasteurized,No Rind,Twist arménien,lower fat
+1164,QC,Artisan,39.0,,"Daily fresh, cheese curds or blocks",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar (Fromagerie Port-Joli),higher fat
+1168,QC,Artisan,39.0,"Hazelnut flavor that intensifies with age. Available; mild, medium, strong and extra strong",Creamy-colored giving off a buttery aroma,1,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar Bio d'Antan,higher fat
+1171,QC,Artisan,39.0,,Fresh cheese curds or blocks,1,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar La Chaudière,higher fat
+1174,QC,Farmstead,39.0,Fruit and hazelnut flavors,Pressed and not cooked  cheese,0,Firm Cheese,Cow,Raw Milk,Brushed Rind,Blackburn (Le),higher fat
+1175,QC,Farmstead,46.0,"Mild, milky flavor","Not cooked cheese, interior-ripened",0,Semi-soft Cheese,Cow,Pasteurized,,Cabouron (Le),lower fat
+1176,QC,Farmstead,39.0,Slight buttery and nutty taste,Pressed and uncooked cheese,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar Blackburn (Le),higher fat
+1177,QC,Farmstead,46.0,Pronounced with fruity aroma,Interior-ripened,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Mont-Jacob (Le),lower fat
+1178,QC,Farmstead,39.0,"Mild, fruity, leaves a spicy taste in mouth",Cooked,0,Firm Cheese,Cow,Raw Milk,Washed Rind,Napoléon (Le),higher fat
+1179,QC,Farmstead,37.0,Hazelnut flavour that intensifies with age,Aged cheddar,0,Firm Cheese,Cow,Raw Milk,No Rind,Valida Doux (Le),higher fat
+1180,QC,Farmstead,37.0,Hazelnut flavour that intensifies with age,Aged cheddar,0,Firm Cheese,Cow,Raw Milk,No Rind,Valida Moyen (Le),higher fat
+1181,QC,Farmstead,37.0,Hazelnut flavour that intensifies with age,Aged cheddar,0,Firm Cheese,Cow,Raw Milk,No Rind,Valida Fort (Le),higher fat
+1182,QC,Artisan,48.0,"Cream and salted butter taste, hints of olive",,1,Soft Cheese,Cow,Raw Milk,Washed Rind,Camplain,lower fat
+1183,QC,Artisan,45.0,Clover and hay taste,Copper-colored rind,1,Semi-soft Cheese,Cow,Raw Milk,,Réserve La Pérade,lower fat
+1184,QC,Artisan,48.0,"Fruity, yellow, with acidic accent.","Light rind, slightly sticky. Pink with orange tint.",1,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Baluchon,lower fat
+1185,QC,Farmstead,45.0,"Subtle flavor of fruits, butter, nuts and chestnuts","Elastic and melting in the mouth, presence of small irregularly dispersed eyes in the cheese",0,Soft Cheese,Ewe,Raw Milk,Bloomy Rind,Blanche du Fjord (La),higher fat
+1186,QC,Artisan,40.0,Slightly salted,Roasting cheese,0,Firm Cheese,Cow,Pasteurized,,Paillasson de l'Isle d'Orléans (Le),lower fat
+1188,QC,Industrial,39.0,"Curds : salted, fine herbs, BBQ or sea salt. Blocks: garlic and pepper, yellow, chocolate Grand Marnier with pears, marble, sharp, fine herbs, pesto",Cheese curds or blocks,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar frais (Qualité Summum),higher fat
+1194,QC,Artisan,37.0,"Available; medium, strong, extra strong, in block, curds, BBQ",,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar (Fromagerie Boivin),higher fat
+1195,QC,Artisan,47.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Petit Saguenéen (Le),lower fat
+1196,QC,Artisan,36.0,Plain or BBQ,,0,Firm Cheese,Cow,Pasteurized,No Rind,Tortillons (Les) (Fromagerie Boivin),higher fat
+1197,QC,Artisan,39.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar sans sel (Fromagerie Boivin),higher fat
+1198,QC,Artisan,50.0,"Taste of butter and cooked cheese, slightly spicy",Roasting cheese,0,Semi-soft Cheese,Cow,Pasteurized,,Annobli,lower fat
+1199,QC,Artisan,44.0,,Supple white cheese,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Monterey Jack (Fromagerie Boivin),lower fat
+1200,QC,Farmstead,53.0,"Flavors of butter, cream, hazelnut and mushroom","Chalky texture, soft cheese but not runny",1,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Champayeur (Le),lower fat
+1201,QC,Farmstead,42.0,Balanced salty taste,Rind scattered with ochred spots,1,Veined Cheeses,Cow,Raw Milk,,Bleu d'Élizabeth (Le),lower fat
+1202,QC,Farmstead,35.0,Almond and hazelnutty taste,Pink-orange-colored rind,0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Curé-Hébert (Le),higher fat
+1203,QC,Farmstead,35.0,Almond and nutty taste,Surface-ripened,0,Firm Cheese,Cow,Raw Milk,,Cru du Canton (Le),higher fat
+1204,QC,Farmstead,41.0,,"Unripened, curds or blocks",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar L'Autre Versant,higher fat
+1205,QC,Artisan,44.0,Slight goaty taste counterbalanced with cow's milk taste,Firm and cooked,1,Firm Cheese,Cow and Goat,Raw Milk,Washed Rind,Grand 2 (Le),lower fat
+1206,QC,Artisan,45.0,Slightly hazelnutty,Amber-colored washed rind,1,Firm Cheese,Cow,Raw Milk,Washed Rind,Grondines (Les),higher fat
+1207,QC,Industrial,42.0,Mild,Elastic and smooth texture,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar Coaticook non salé,lower fat
+1210,QC,Industrial,39.0,"Pungent and lively, slightly salted.  Available white, couloured, aged, curds","Strong aroma, Smooth and supple texture",0,Firm Cheese,Cow,Thermised,No Rind,Cheddar Coaticook,higher fat
+1211,QC,Industrial,50.0,Slightly salted milk flavor,Compact,0,Firm Cheese,Cow,Pasteurized,No Rind,Mozzarella (Coaticook),lower fat
+1212,QC,Industrial,45.0,Salty,"Firm texture, soaking in brine",0,Firm Cheese,Cow,Pasteurized,No Rind,Saumuré Coaticook,lower fat
+1213,QC,Industrial,39.0,Hazelnut and salty flavour. Available mild and strong,Unripened,0,Firm Cheese,Goat,Pasteurized,,Capricook,higher fat
+1215,QC,Artisan,63.0,,Creamy spreadable cheese,0,Soft Cheese,Goat,Pasteurized,No Rind,Écume des Rapides (L'),lower fat
+1216,QC,Artisan,40.0,Fruity,"Firm cheese, cooked",0,Firm Cheese,Goat,Pasteurized,,Doux du Fort (Le),higher fat
+1217,QC,Artisan,45.0,Flavored with Michel Jodoin's apple Brandy,,0,Fresh Cheese,Goat,Pasteurized,No Rind,Pompette (Le),lower fat
+1218,QC,Artisan,58.0,,Unripened cheese,0,Soft Cheese,Goat,Pasteurized,No Rind,Amourettes - Tomates séchées et basilic,lower fat
+1219,QC,Artisan,58.0,,Unripened cheese,0,Soft Cheese,Goat,Pasteurized,No Rind,Amourettes - Fines herbes,lower fat
+1220,QC,Artisan,45.0,Fresh,Preserved in sunflower and olive oil,0,Fresh Cheese,Goat,Pasteurized,No Rind,Dames de Chambly,lower fat
+1221,QC,Artisan,39.0,Also seasoned with fine herbs,Cheese curds (41% humidity) or blocks,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar frais (Fromagerie Victoria),higher fat
+1222,QC,Artisan,39.0,Available plain or with olives,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar médium (Fromagerie Victoria),higher fat
+1223,QC,Artisan,39.0,Pronounced,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar fort (Fromagerie Victoria),higher fat
+1224,QC,Artisan,45.0,Salty,Twisted cheese,0,Firm Cheese,Cow,Pasteurized,No Rind,Darac,lower fat
+1225,QC,Artisan,38.0,Caprine flavor slightly acid and salty,Gouda type cheese with red waxed rind. Ivory-colored cheese with a crumbly texture.,0,Firm Cheese,Goat,Pasteurized,,Athonite,lower fat
+1226,QC,Artisan,33.0,Butter and almond aftertaste,Havarti type cheese covered with yellow wax. Ivory-colored cheese with small holes.,0,Firm Cheese,Goat,Pasteurized,,Bon Berger,higher fat
+1227,QC,Artisan,60.0,Mild and salted with an almond and buttery aftertaste,Damp and crumbly,0,Semi-soft Cheese,Ewe and Goat,Pasteurized,No Rind,Féta (Troupeau Bénit),lower fat
+1228,QC,Artisan,36.0,"Mild, buttery and hazelnut flavour with a hint of fruits and salt",Gruyere type cheese. Ivory-colored cheese with small holes irregularly dispersed.,0,Firm Cheese,Ewe and Goat,Pasteurized,,Graviera,higher fat
+1229,QC,Artisan,60.0,"Available plain or seasoned with chives, provençal herbs, mint and peppers or onion","Creamy and white cheese, ball-shaped",0,Fresh Cheese,Goat,Pasteurized,No Rind,Petites Soeurs (Les),lower fat
+1231,QC,Artisan,33.0,"Mild, slightly salty and acid with an almond and butter aftertaste. Seasoned with pepper and onions or with garden fine herbs",Havarti-type cheese. Firm and crumbly texture. Ivory-colored. Covered with yellow wax.,0,Firm Cheese,Goat,Pasteurized,No Rind,Symandre,higher fat
+1240,QC,Farmstead,70.0,Available plain or seasoned with fine herbs or pepper,"Fresh goat cheese ladle-molded, fine and creamy texture good for spreading",0,Fresh Cheese,Goat,Pasteurized,No Rind,Alpin (L'),lower fat
+1241,QC,Farmstead,70.0,"Mild, with fine herbs",,0,Fresh Cheese,Goat,Pasteurized,No Rind,Boules de neige (Les),lower fat
+1242,QC,Farmstead,56.0,"Available in 6 different flavors : plain, five peppers, spicy pepper, fresh garlic, Provençal herbs and chives",Lactic cheese,1,Soft Cheese,Goat,Pasteurized,No Rind,Petit Pâturin (Le),lower fat
+1243,QC,Farmstead,48.0,"Light butter, hazelnut and mushroom flavour with a caprine aftertaste","White lactic soft cheese, chalky and creamy texture, natural rind (geotrichum)",1,Soft Cheese,Goat,Pasteurized,,Ange Fourchu (L'),lower fat
+1244,QC,Farmstead,56.0,,"Soft lactic cheese balls, soaked with a mix of oils and seasonings",1,Soft Cheese,Goat,Pasteurized,No Rind,Grelotins à l'huile aromatisée,lower fat
+1245,QC,Farmstead,45.0,Goat flavour,Supple texture,1,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Chevalier de Lorimier,lower fat
+1246,QC,Farmstead,42.0,,Goat's cheese curds,1,Firm Cheese,Goat,Pasteurized,No Rind,Fromage en grains la Chèvrerie Barrousse,lower fat
+1248,QC,Artisan,46.0,Spicy without being aggressive,Natural or mixed rind. Rich and creamy texture.,0,Soft Cheese,Ewe and Cow,Pasteurized,Washed Rind,Clandestin (Le),higher fat
+1249,QC,Artisan,52.0,Mushroomy,"Washed rind goat cheese, creamy texture",0,Soft Cheese,Goat,Pasteurized,Washed Rind,Sentinelle,lower fat
+1250,QC,Artisan,50.0,Very spicy,Cream-colored cheese with a smooth texture,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Magie de Madawaska,lower fat
+1252,QC,Artisan,50.0,Buttery,Creamy and supple texture,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Marquis de Témiscouata,higher fat
+1253,QC,Artisan,56.0,Very Mild,"Supple and smooth texture, bloomy rind",0,Semi-soft Cheese,Cow,Pasteurized,Bloomy Rind,Dame du Lac (La),lower fat
+1254,QC,Artisan,37.0,Acidulous and alcoholic,Light yellowy color,0,Firm Cheese,Cow,,No Rind,Petit Émile (Le),higher fat
+1256,QC,Artisan,52.0,Slight mushroom taste,Goat's Brie,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Citadelle,lower fat
+1257,QC,Farmstead,60.0,Fresh and acidulous,Ladle-molded,1,Fresh Cheese,Goat,Pasteurized,No Rind,Chèvre frais fermier,lower fat
+1258,QC,Farmstead,35.0,Fruity and hazelnutty,"Firm cheese, mixed rind",1,Firm Cheese,Goat,Raw Milk,,Tire-Lune,higher fat
+1259,QC,Farmstead,46.0,"Creamy taste, slightly goaty","Supple texture, mixed rind",1,Semi-soft Cheese,Goat,Pasteurized,,Galarneau,higher fat
+1262,QC,Industrial,54.0,"Fresh buttery, mushrooms and hazelnut notes","Supple and smooth cheese, creamy texture, white bloomy rind.",0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Petit Brie DuVillage,lower fat
+1263,QC,Industrial,52.0,"Fruity, mushrooms and hazelnut flavor",Soft cheese with a hint of cream,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Double Crème DuVillage,higher fat
+1264,QC,Industrial,48.0,Heated milk and buttery flavor,"Coated with vegetable ash, creamy texture",0,Soft Cheese,Cow,Pasteurized,,Cendré de Lune,higher fat
+1265,QC,Industrial,50.0,"Acidulous, pungent hint of honey and flowers","Fine toad-like rind, runny and creamy texture",0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Évanjules (L'),lower fat
+1266,QC,Industrial,48.0,"Slightly acidulous when young, develops a buttery and heated milk taste through ripening","Coated with vegetable ash, creamy texture",0,Soft Cheese,Cow,Pasteurized,,Pleine Lune (Le),higher fat
+1267,QC,Industrial,45.0,Mild to sharp depending on the age,White to beige-colored,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Fleur de Lys,higher fat
+1268,QC,Industrial,45.0,Subtle flowery and brioche aroma,Rich and smooth texture,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Lady Laurier d'Arthabaska,higher fat
+1269,QC,Industrial,55.0,"Intense and fruity taste, honey and flowery aftertaste","Orange washed rind, rich and creamy texture",0,Soft Cheese,Cow,Pasteurized,Washed Rind,Maître Jules,lower fat
+1270,QC,Industrial,46.0,Nutty and fresh butter taste,"Light beige color, soft and smooth texture",0,Semi-soft Cheese,Cow,Pasteurized,,Saint-Paulin DuVillage,lower fat
+1271,QC,Industrial,48.0,Fresh apples and nutty flavor with an acid hint,"Light yellow or copper-colored washed rind, creamy-colored interior with a smooth and supple texture",0,Firm Cheese,Cow,Pasteurized,Washed Rind,Vacherin DuVillage,lower fat
+1272,QC,Industrial,40.0,Fruity and slightly nutty flavor,Pressed and uncooked,0,Firm Cheese,Cow,Pasteurized,,Mont Gleason,lower fat
+1273,QC,Industrial,46.0,Buttery taste,"Orange washed rind, creamy-colored interior, tender texture",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Raclette DuVillage,lower fat
+1274,QC,Industrial,45.0,"Notes of cream, fresh farm milk and a hint of hazelnut",Pressed surface ripened,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Cantonnier,higher fat
+1275,QC,Industrial,46.0,Mild and fruity with aroma of hazelnut and hay,"Surface ripened with washed rind, bears a horizontal strip of vegetable carbon",0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Cendré (Le),lower fat
+1276,QC,Industrial,46.0,Mild and fruity,"Surface ripened, edible orange rind",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Saint-Médard,lower fat
+1277,QC,Industrial,40.0,Mild,"Emmental type cheese, no rind",0,Firm Cheese,Cow,Pasteurized,,Kingsberg,lower fat
+1278,QC,Industrial,55.0,"Creamy taste, exudes intense and expansive aroma","Surface ripened, washed, shiny rind which is slightly wrinkled",0,Soft Cheese,Cow,Pasteurized,Washed Rind,Sir Laurier d'Arthabaska,lower fat
+1279,QC,Industrial,48.0,Butter and cream flavor with a pungent hint,"Bloomy rind, creamy texture",0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Triple Crème Du Village,higher fat
+1280,QC,Industrial,55.0,"Creamy flavor, hazelnut and flowery hints","Fully ripened, washed rind cheese",0,Soft Cheese,Cow,Raw Milk,Washed Rind,Petit Rubis (Le),lower fat
+1281,QC,Industrial,52.0,Creamy taste,"Brie cheese made with goat's milk, runny interior",0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Chèbrie,lower fat
+1282,QC,Industrial,52.0,Rich and creamy taste,"Goat's soft cheese, ripened",0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Princeville,lower fat
+1283,QC,Industrial,54.0,Rich and creamy taste,"Ivory-colored cheese, surface-ripenend",0,Soft Cheese,Goat,Pasteurized,,Tre Fratello,lower fat
+1284,QC,Industrial,54.0,Rich and creamy taste,"Goat soft cheese, surface-ripened",0,Soft Cheese,Goat,Pasteurized,,Castile,lower fat
+1285,QC,Industrial,54.0,Rich and creamy taste,"Goat cheese, surface ripenened",0,Soft Cheese,Goat,Pasteurized,,Capella,lower fat
+1286,QC,Artisan,42.0,Rich,"Surface-ripened, white mold",1,Soft Cheese,Cow and Goat,Pasteurized,Bloomy Rind,Kunik,higher fat
+1288,QC,Farmstead,80.0,Creamy taste,Unctuous and velvety spreadable cheese,1,Fresh Cheese,Cow,Pasteurized,No Rind,Avalanche,lower fat
+1289,QC,Farmstead,80.0,Fresh cream taste,,1,Fresh Cheese,Cow,Pasteurized,No Rind,Cottage de la Beurrerie du Patrimoine,lower fat
+1290,QC,Farmstead,45.0,Pronounced hazelnut flavor and butter,"Camembert-type cheese,",1,Semi-soft Cheese,Cow and Goat,Thermised,Washed Rind,Canadiane,lower fat
+1291,QC,Farmstead,45.0,Mushroomy and buttery,"Munster-type cheese, washed rind",1,Semi-soft Cheese,Cow,Thermised,Washed Rind,Vent d'est,lower fat
+1292,QC,Industrial,39.0,Plain or seasoned,Cheese curds or pressed,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar frais Côte-de-Beaupré,higher fat
+1293,QC,Industrial,45.0,"Goat butter taste, more pronounced taste than the Caprano, without being overly pungent",,0,Firm Cheese,Goat,Pasteurized,No Rind,Caprano vieilli,lower fat
+1294,QC,Industrial,50.0,"Acidulous, semi-strong taste","Soft cheese, surface-ripened",0,Soft Cheese,Goat,Pasteurized,,Cendrillon (Le),lower fat
+1295,QC,Industrial,50.0,,Double cream Brie,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Rumeur (La),higher fat
+1296,QC,Industrial,50.0,Typed and aromatic,"Thin rind, creamy and supple texture",0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert de Portneuf,higher fat
+1297,QC,Industrial,50.0,"It has flavous of butter, fresh mushrooms and hazelnuts that become more pronounced with age",It has a bloomy rind with a creamy interior,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brise du Matin,higher fat
+1298,QC,Industrial,50.0,Mild and creamy with a nutty flavour,Double cream,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie double crème de Portneuf,higher fat
+1299,QC,Industrial,50.0,Slightly fruity,Regular Brie,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie de Portneuf,lower fat
+1300,QC,Industrial,50.0,,Double cream,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Bonaparte (Le),higher fat
+1301,QC,Industrial,55.0,"Delicate and salty (varieties available: plain, herb, pepper)","Soft and creamy body, slightly acidulous",0,Fresh Cheese,Goat,Pasteurized,No Rind,Capriny,lower fat
+1302,QC,Industrial,50.0,"Mild, light and delicate. Creamy and nutty taste",Triple cream,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Belle Crème,higher fat
+1303,QC,Industrial,45.0,Very mild flavours reminiscent of blue cheese characteristics,Blue-veined,0,Veined Cheeses,Cow,Pasteurized,Bloomy Rind,Bleubry,higher fat
+1304,QC,Industrial,50.0,Lightly salted and acidic,"Ripened, white interior",0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Chèvre D'Art,lower fat
+1305,QC,Industrial,55.0,"Mild, slight goat taste available with fig and orange flavour",Smooth,0,Fresh Cheese,Cow and Goat,Pasteurized,No Rind,Chèvre des neiges,lower fat
+1306,QC,Industrial,50.0,"Smooth and velvety, with age it bocomes more full-flavoured and gains a mor distinct aroma","Supple, homogeneous, creamy-yellow body",0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Calendos (Le),higher fat
+1307,QC,Industrial,45.0,Mild and delicate  taste becoming more pronounced with age,Natural rind,0,Firm Cheese,Goat,Pasteurized,No Rind,Caprano,lower fat
+1308,QC,Industrial,50.0,"Sharp to pronounced depending on ripening, lactic and slight hazelnut flavour",,0,Fresh Cheese,Goat,Pasteurized,Bloomy Rind,Paillot de chèvre,lower fat
+1309,QC,Industrial,50.0,Mild and  rich,Triple cream,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Saint-Honoré,higher fat
+1310,QC,Industrial,50.0,"Taste of butter, nuts and corn",Camembert type,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Campagnard,higher fat
+1311,QC,Farmstead,48.0,"Butter, hazelnut and chestnut flavors",,0,Semi-soft Cheese,Goat,Raw Milk,,Tomme du Maréchal,lower fat
+1312,QC,Artisan,39.0,Hazelnut flavor,"Cream-colored, blocks or curds",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar St-Georges,higher fat
+1313,QC,Artisan,43.0,"Mild, slightly lactic and hazelnut flavour","Ivory-colored cheese, smoothand elastic texture, few holes",1,Semi-soft Cheese,Cow,Pasteurized,No Rind,Fontina de l'Abbaye,higher fat
+1314,QC,Artisan,43.0,Pronounced and becomes more pungent with age,"When aged, its texture becomes rich and creamy.",0,Veined Cheeses,Goat,Pasteurized,,Chèvre-Noît Bleu de chèvre,lower fat
+1315,QC,Artisan,41.0,Pronounced,,0,Veined Cheeses,Ewe,Pasteurized,,Chanoine,higher fat
+1316,QC,Artisan,45.0,Creamy with a slight salty taste,"Natural rind, surface ripened",0,Veined Cheeses,Cow,Pasteurized,No Rind,Bleu Bénédictin,lower fat
+1317,QC,Artisan,41.0,"Typical taste, very agreable in the mouth, neither too mild or too pronounced","No rind, smooth and unctuous",0,Firm Cheese,Ewe,Pasteurized,No Rind,Memphré (Le),higher fat
+1318,QC,Artisan,41.0,"Strong taste typical of certain blue cheeses, with a long finish","Unpressed, uncooked cheese, interior-ripened with Penicilium roqueforti",0,Veined Cheeses,Cow,Pasteurized,,Ermite,higher fat
+1319,QC,Artisan,42.0,Mild and hazelnutty,"Pressed cheese, natural rind and interior-ripened, dry texture, big eyes",0,Firm Cheese,Cow,Pasteurized,,Frère Jacques,lower fat
+1320,QC,Artisan,42.0,"Sharp, hazelnutty","Cheese with irregular holes, natural rind",0,Firm Cheese,Cow,Pasteurized,,Moine (Le),lower fat
+1321,QC,Artisan,43.0,Mild and hazelnut flavour,Interior ripened,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mont Saint-Benoît,higher fat
+1322,QC,Artisan,55.0,"Fresh, acidulous.",White and damp,0,Fresh Cheese,Goat,Pasteurized,No Rind,Ricotta de chèvre,lower fat
+1323,QC,Artisan,65.0,"Fresh, mild, slightly acidulous",White and damp,0,Fresh Cheese,Cow,Pasteurized,No Rind,Ricotta Saint-Benoît,lower fat
+1324,QC,Artisan,40.0,Mild and hazelnutty,"Orange-colored, elastic texture",0,Firm Cheese,Cow,Pasteurized,No Rind,Saint-Augustin (Le),lower fat
+1325,QC,Artisan,43.0,Mild,"Pressed, with irregular holes, no rind",0,Firm Cheese,Goat,Pasteurized,No Rind,Archange (L'),lower fat
+1326,QC,Industrial,76.0,"Delicate and fresh, slightly salty",Whey Ricotta,0,Soft Cheese,Cow,Pasteurized,No Rind,Ricotta Prestigio,lower fat
+1327,QC,Industrial,78.0,"Delicate and fresh, slightly salty",Whey Ricotta,0,Soft Cheese,Cow,Pasteurized,No Rind,Ricotta Prestigio léger,lower fat
+1329,QC,Industrial,50.0,Creamy taste with a hint of mushroom,Stabilized cheese,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Rondoux double crème,lower fat
+1330,QC,Industrial,45.0,Creamy flavor that becomes more pronounced through ripening,Solubilized,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Rondoux triple crème,higher fat
+1331,QC,Industrial,56.0,,Lactic cheese,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Rondoux pur chèvre,lower fat
+1332,QC,Industrial,56.0,Mild,Pactic cheese,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Chevrita,lower fat
+1333,QC,Industrial,56.0,Mild goat flavour,Lactic cheese,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Extra chèvre (L'),lower fat
+1334,QC,Industrial,56.0,,Lactic cheese,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Doucerel,lower fat
+1335,QC,Industrial,50.0,Milk and hazelnut flavors,Stabilized,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Chevalier double crème,lower fat
+1336,QC,Industrial,50.0,"Milk and hazelnut flavors, slightly richer than a simple cream",Stabilized,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie L'Extra double crème,lower fat
+1337,QC,Industrial,55.0,Hazelnut flavor becoming more pronounced with age,Interior-ripened,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Havarti Danesborg léger,lower fat
+1338,QC,Industrial,46.0,Creamy with a salty hint,"Pressed, interior-ripenened, covered with a layer of wax",0,Semi-soft Cheese,Cow,Pasteurized,,Fontina Canadien,lower fat
+1339,QC,Industrial,47.0,Mushroom and truffle woody flavor,Washed rind showing a light white duvet,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Oka avec champignons,lower fat
+1340,QC,Industrial,42.0,Hazelnut and butter taste,,0,Firm Cheese,Cow,Pasteurized,Washed Rind,Oka l'artisan,lower fat
+1341,QC,Industrial,55.0,Slightly salty,"Moist surface, interior-ripened",0,Soft Cheese,Cow,Pasteurized,No Rind,Feta (Danesborg),lower fat
+1342,QC,Industrial,57.0,Slightly salty,"Moist surface, interior-ripened",0,Soft Cheese,Cow,Pasteurized,No Rind,Féta léger (Danesborg),lower fat
+1343,QC,Industrial,42.0,Slight hazelnut taste,,0,Firm Cheese,Cow,Pasteurized,Washed Rind,Raclette Anco,lower fat
+1344,QC,Industrial,50.0,Fruity,"Orange-copper washed rind, stabilized",0,Soft Cheese,Cow,Pasteurized,Washed Rind,Champfleury (Vaudreuil),lower fat
+1345,QC,Industrial,55.0,"Salty, slightly pungent and pronounced","Slightly creamy texture, interior-ripened",0,Soft Cheese,Cow,Pasteurized,No Rind,Feta (Anco),lower fat
+1346,QC,Industrial,55.0,"Salty, slightly pungent and pronounced",Slightly creamy,0,Soft Cheese,Goat,Pasteurized,No Rind,Féta de chèvre (Anco),lower fat
+1347,QC,Industrial,58.0,"Milk, hazelnut and mushroom taste",Stabilized,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert Allégro,lower fat
+1348,QC,Industrial,56.0,"Milk, hazelnut and mushroom flavour",Lactic cheese,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert Anco,lower fat
+1349,QC,Industrial,57.0,"Rather neutral, mushrooms aroma",Stabilized,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Allégro 17%,lower fat
+1350,QC,Industrial,50.0,"Milk and hazelnut flavor, slightly richer than a simple cream cheese",Stabilized,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie double crème Anco,lower fat
+1351,QC,Industrial,56.0,"Milk, hazelnut and mushroom flavor",,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Grand Camembert l'Extra,lower fat
+1352,QC,Industrial,56.0,"Milk, hazelnut and mushroom flavor",Lactic cheese,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Grand Camembert Vaudreuil,lower fat
+1353,QC,Industrial,56.0,"Milk, hazelnut and mushroom flavor",Lactic cheese,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert Provençal,lower fat
+1354,QC,Industrial,56.0,Mild flavour,"Bloomy rind, lactic cheese",0,Soft Cheese,Cow and Goat,Pasteurized,Bloomy Rind,Vaudreuil 50/50 mixte,lower fat
+1355,QC,Industrial,50.0,Rather neutral with a mushroom aroma,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie double crème Provençal,lower fat
+1356,QC,Industrial,56.0,"Milk, hazelnut and mushroom flavor",Lactic cheese,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert Gourmet,lower fat
+1357,QC,Industrial,50.0,Mostly neutral and mushroom aroma,Stabilized,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Normandie double crème,lower fat
+1358,QC,Industrial,50.0,"Fruity notes enlivened by flavours of cream, butter and a hint of whey",,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Providence d'Oka (La),lower fat
+1360,QC,Industrial,56.0,"Milk, hazelnut and mushroom flavor",Lactic cheese,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert Vaudreuil,lower fat
+1362,QC,Industrial,37.0,"Mild, almond and cream hints","Pressed and uncooked cheese, interior ripened",0,Firm Cheese,Cow,Pasteurized,,Gouda Anco,higher fat
+1363,QC,Industrial,50.0,Mild and delicate flavours with fairly pronounced buttery taste,"Pressed rind, interior-ripened",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Saint-Paulin Anco,lower fat
+1364,QC,Industrial,54.0,"Sharp, flavours of cream and mushrooms",Lactic cheese,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Notre-Dame,lower fat
+1365,QC,Industrial,54.0,"Velvety (varieties available: plain, herb, pepper)",,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Chevalier,lower fat
+1366,QC,Industrial,45.0,Mild and rich,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Chevalier triple crème,higher fat
+1367,QC,Industrial,54.0,Rather pronounced milk and hazelnut flavors,Stabilized,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie L'Extra,lower fat
+1368,QC,Industrial,56.0,"Milk, hazelnut and mushroom flavor",,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert L'Extra,lower fat
+1369,QC,Industrial,52.0,"Mild, hint of cream and mushrooms",,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Vaudreuil,lower fat
+1370,QC,Industrial,50.0,"Milky, hazelnut, slightly richer than the simple cream",,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Vaudreuil Double Crème,higher fat
+1371,QC,Industrial,45.0,Hazelnut flavor becoming more pronounced with age,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Havarti Danesborg,higher fat
+1372,QC,Industrial,52.0,Mild,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarella (Prestigio),lower fat
+1373,QC,Industrial,40.0,Mild,,0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse Grubec,lower fat
+1374,QC,Industrial,49.0,Mild,,0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse Grubec léger,lower fat
+1375,QC,Industrial,42.0,"Sharp, pungent",,0,Firm Cheese,Cow,Pasteurized,Washed Rind,Raclette d'Oka,lower fat
+1376,QC,Industrial,47.0,"Sharp, nutty and fruity","Pressed, surface ripened",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Oka,lower fat
+1377,QC,Industrial,45.0,"Sharp and fruity, hazelnutty","Pressed, surface-ripened",0,Semi-soft Cheese,Cow,Thermised,,Oka Classique,higher fat
+1378,QC,Industrial,50.0,"Sharp and fruity, hazelnut flavour",,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Oka léger,lower fat
+1379,QC,Industrial,42.0,Light taste,,0,Firm Cheese,Cow,Pasteurized,,Gouda extra doux (Bergeron),higher fat
+1380,QC,Industrial,42.0,,,0,Firm Cheese,Cow,Pasteurized,,Gouda de Saint-Antoine,lower fat
+1381,QC,Industrial,42.0,"Smoky, comes in 2 flavours",Gouda-type cheese,0,Firm Cheese,Cow,Pasteurized,,Calumet (Le),lower fat
+1382,QC,Industrial,43.0,"Fresh milky, creamy taste, very mild",,0,Firm Cheese,Cow,Pasteurized,No Rind,Brin de gouda,lower fat
+1383,QC,Industrial,43.0,"Sharp, distinct flavour of Indian spices","Pressed and not cooked cheese, interior ripened",0,Firm Cheese,Cow,Pasteurized,,Coureur des bois (Le),lower fat
+1384,QC,Industrial,43.0,Mild,"Pressed, uncooked, interior ripened, natural rind",0,Firm Cheese,Cow,Pasteurized,,Fin Renard (Le),lower fat
+1385,QC,Industrial,43.0,"Mild, hazelnut flavour, slightly acidulous","Smooth with small holes, no rind",0,Firm Cheese,Cow,Pasteurized,,Bergeron Classique,lower fat
+1386,QC,Industrial,43.0,Slightly acidulous taste,"Pressed, uncooked, interior-ripened cheese",0,Firm Cheese,Cow,Pasteurized,No Rind,Populaire (Le),higher fat
+1387,QC,Industrial,51.0,Mild and slightly acidulous,Interior ripened and covered with yellow wax,0,Firm Cheese,Cow,Pasteurized,,Seigneur de Tilly (Le),lower fat
+1388,QC,Industrial,42.0,,"Creation of the Bergeron cheese masters. Made of whole milk, and contains no dairy substances. Slightly firmer than regular Gouda",0,Firm Cheese,Cow,Pasteurized,,Lotbinière (Le),lower fat
+1389,QC,Industrial,43.0,"Nutty, mildly tangy flavour",Smooth cheese with a few small holes,0,Firm Cheese,Cow,Pasteurized,,P'tit Bonheur (Le),lower fat
+1390,QC,Industrial,42.0,,"Product wrapped in black, non-edible wax. When cut, the wedges are covered with thermoformed film",0,Firm Cheese,Goat,Pasteurized,,Patte Blanche,lower fat
+1391,QC,Industrial,55.0,,Popular 6% cheese called that because of its low fat content. Made from pasteurized partially skimmed milk. Smooth cheese with a few holes,0,Firm Cheese,Cow,Pasteurized,,Six Pourcent 6% (Le),lower fat
+1392,QC,Artisan,65.0,Creamy and milky,White creamy cheese,0,Fresh Cheese,Cow,Pasteurized,No Rind,Monpellier (Le),lower fat
+1393,QC,Artisan,50.0,Mild,"Creamy,",0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Montebello (Le),lower fat
+1394,QC,Artisan,45.0,"Pronounced, well-developed, fruity with butter and hazelnut notes",,0,Firm Cheese,Goat,Raw Milk,No Rind,Louis-Joseph Papineau,lower fat
+1395,QC,Artisan,65.0,Mild and slightly acidulous. Various flavours,Creamy,0,Fresh Cheese,Goat,Pasteurized,No Rind,Petit Vinoy (Le),lower fat
+1396,QC,Artisan,50.0,"Mild, goat flavour, slightly acidulous",,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Saint-Félix,lower fat
+1397,QC,Farmstead,60.0,Mild mushroom and nut taste,,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Clé des champs,lower fat
+1398,QC,Farmstead,69.0,"Mild and lactic availble in plain, garlic and herbs, chives, almond, five peppercorn, cajun and in flavoured olive oil",Creamy,0,Fresh Cheese,Goat,Pasteurized,No Rind,Capri' Cieux  (Le),lower fat
+1399,QC,Farmstead,42.0,Mild to medium depending on the age,Interior-ripened,0,Firm Cheese,Goat,Raw Milk,No Rind,Chèvratout,lower fat
+1400,QC,Farmstead,62.0,"Sharp, slight hazelnut hints",Rind washed with cider,0,Semi-soft Cheese,Goat,Thermised,Washed Rind,Hilairemontais (Le),lower fat
+1401,QC,Industrial,42.0,"Slightly salted, whey aftertaste",Daily fresh,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar Riviera en grains,lower fat
+1402,QC,Industrial,39.0,Buttery and creamy lactic flavor,Daily fresh,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar doux Riviera,higher fat
+1403,QC,Industrial,39.0,Lactic buttery and creamy flavor more pronounced than mild cheddar,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar médium Riviera,higher fat
+1404,QC,Industrial,39.0,Rich nutty flavor with a hint of cream,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar fort Riviera,higher fat
+1405,QC,Industrial,39.0,"Nutty, creamy flavor, slightly salted",,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar extra-fort Riviera,higher fat
+1406,QC,Industrial,47.0,Sharp,"Pressed cheese, strong aroma, when aged its rind goes from yellow to red",0,Semi-soft Cheese,Cow,Pasteurized,,Saint-Pierre de Saurel léger,lower fat
+1407,QC,Industrial,49.0,Hazelnut taste,"Pressed cheese, ivory colored, pierced with holes. Swiss type cheese.",0,Firm Cheese,Cow,Pasteurized,,Chaliberg léger,lower fat
+1408,QC,Industrial,40.0,Hazelnut taste,"Pressed cheese, ivory-colored, sprinkled with holes. Swiss type cheese.",0,Firm Cheese,Cow,Pasteurized,,Chaliberg,lower fat
+1409,QC,Industrial,50.0,"Mild, hints of butter",Smooth texture,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Finbourgeois,lower fat
+1410,QC,Industrial,55.0,"Mild, hints of fresh milk",,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Élan 7% (L'),lower fat
+1411,QC,Industrial,50.0,Sharp,"Pressed cheese, strong aroma, when aged its rind goes from yellow to red",0,Semi-soft Cheese,Cow,Pasteurized,,Saint-Pierre de Saurel,lower fat
+1412,QC,Industrial,46.0,Slightly hazelnut and creamy taste,"Dutch Edam-type cheese, smooth surface, light yellow and uniform center, supple, smooth and melting texture",0,Semi-soft Cheese,Cow,Pasteurized,,Vent des îles,lower fat
+1413,QC,Industrial,40.0,Slightly sweet almond flavor,"Emmental type cheese, with no rind, yellow-colored, with big round holes",0,Firm Cheese,Cow,Pasteurized,No Rind,Alpinois (L'),lower fat
+1414,QC,Farmstead,44.0,Sharp,Dense cheese with washed rind. Cheese made from Ayrshire cow's milk.,0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Fêtard (Le),higher fat
+1415,QC,Farmstead,50.0,"Fruitty notes with flavours of cream, butter and a hint of whey",Cheese made from Ayrshire cow's milk..,0,Soft Cheese,Cow,Raw Milk,Washed Rind,Laracam,lower fat
+1416,QC,Farmstead,48.0,Sharp,Washed rind. Cheese made from Ayrshire cow's milk,0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Victor et Berthold,lower fat
+1417,QC,Industrial,40.0,Hazelnut and slightly fruity,Swiss-type cheese showing round and shiny eyes,0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse (Fromagerie Champêtre),lower fat
+1418,QC,Industrial,47.0,"Characteristic, mild and lactic to sharp. With a slight wild mushroom taste.",Mixed rind washed with brine,0,Semi-soft Cheese,Cow,Pasteurized,,Presqu'île (Le),lower fat
+1419,QC,Industrial,26.0,Slighty sharp with salted butter and country flavour.,"Pressed, smooth, soft and creamy cheese.",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Raclette (Fromagerie Champêtre),higher fat
+1420,QC,Industrial,26.0,Sharp with a slight nut and wild mushroom flavour,"Supple, smooth and creamy",0,Semi-soft Cheese,Cow,Pasteurized,,Grand Chouffe (Le),higher fat
+1421,QC,Industrial,41.0,,Made from whole milk,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar en grains et en bloc (Fromagerie Champêtre),higher fat
+1422,QC,Farmstead,52.0,Mild,"White, delicate and crumbly cheese",0,Soft Cheese,Goat,Pasteurized,,Salin de Gaspé (Le),lower fat
+1423,QC,Farmstead,68.0,"Mild and slightly acidulous (varieties available: plain, herb, and pepper)",Creamy,0,Fresh Cheese,Goat,Pasteurized,No Rind,Chèvre de Gaspé,lower fat
+1424,QC,Farmstead,42.0,Mild and fruity,"Cooked and pressed, cheddar type",0,Firm Cheese,Goat,Pasteurized,No Rind,Val-D'Espoir,lower fat
+1425,QC,Farmstead,51.0,"Mild, hazelnut and mushroom flavour",Melting texture in the mouth,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Corsaire,lower fat
+1426,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Mme Clément,lower fat
+1427,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Le Petit Champlain,lower fat
+1428,QC,Industrial,54.0,"Sharp to pronounced, mushroomy and creamy",,0,Soft Cheese,Cow,Pasteurized,,P'tit Saint-Damase léger,lower fat
+1429,QC,Industrial,50.0,Mild,,1,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert BIO  (Damafro),lower fat
+1430,QC,Industrial,50.0,"Sharp to pronounced, taste of mushrooms and cream",,1,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Saint-Damase BIO,lower fat
+1431,QC,Industrial,43.0,Mild,Covered with a layer of red wax,1,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Gouda BIO (Damafro),lower fat
+1432,QC,Industrial,58.0,Mild and acidulous,Creamy cheese,1,Fresh Cheese,Goat,Pasteurized,No Rind,Chèvre des Alpes BIO,lower fat
+1433,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,,Bloomy Rind,Brie Le Grand Cru,higher fat
+1434,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,,Bloomy Rind,Camembert Le Grand Cru,higher fat
+1435,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie double crème (Damafro),higher fat
+1436,QC,Industrial,50.0,"Plain, cranberries, apricots and brandy, mushrooms",,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie en brioche,higher fat
+1437,QC,Industrial,50.0,"Mild, cream and mushroom flavours",,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Triple crème (Damafro),higher fat
+1438,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Connaisseur (Damafro),higher fat
+1439,QC,Industrial,50.0,Mild and goat flavour,,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Cabrie,lower fat
+1440,QC,Industrial,50.0,Mild and creamy,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert double crème (Damafro),higher fat
+1441,QC,Industrial,59.0,Mild and slightly acidulous,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Dama-12,lower fat
+1442,QC,Industrial,88.0,"Fresh, lactic, acidulous",Fresh cheese,0,Soft Cheese,Cow,Pasteurized,No Rind,Damablanc,lower fat
+1443,QC,Industrial,68.0,"Plain, herbs, pepper",Creamy cheese,0,Fresh Cheese,Goat,Pasteurized,No Rind,Fromage de chèvre Tour de France,higher fat
+1444,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Petit Connaisseur,lower fat
+1445,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Mini-Brie,lower fat
+1446,QC,Industrial,68.0,"Mild, slightly acidulous, available: plain, Fine Herbs or Pepper",,0,Fresh Cheese,Goat,Pasteurized,No Rind,Chèvre des Alpes,lower fat
+1447,QC,Industrial,52.0,Mild,Creamy,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Bûchette (La),lower fat
+1448,QC,Industrial,48.0,Mild,Orange rind,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Aura,lower fat
+1449,QC,Industrial,43.0,Mild,Covered in orange wax,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Saint-Paulin (Damafro),lower fat
+1450,QC,Industrial,43.0,"Sharp, lactic and goat flavour",Cheese covered with red wax,0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Gouda de chèvre (Damafro),lower fat
+1451,QC,Industrial,50.0,"Mild, slight mushroom aroma",Uncooked,0,Soft Cheese,Cow,Pasteurized,,Grand Délice,lower fat
+1452,QC,Industrial,46.0,Nutty,Pressed surface-ripened washed-rind cheese,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Raclette (Damafro),lower fat
+1453,QC,Industrial,50.0,"Sharp to pronounced, taste of mushrooms and cream","Neither pressed nor cooked, surface-ripened, washed and bloomy rind cheese",0,Soft Cheese,Cow,Pasteurized,,Saint-Damase,lower fat
+1454,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert (Damafro),lower fat
+1455,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie (Damafro),lower fat
+1456,QC,Industrial,50.0,"Mild, hint of cream and mushrooms",,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Tour de France (Damafro),higher fat
+1457,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert Connaisseur,higher fat
+1458,QC,Industrial,50.0,Mild,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camembert Mme Clément,lower fat
+1459,QC,Industrial,43.0,Mild,Cheese covered with red wax,0,Semi-soft Cheese,Cow,Pasteurized,,Gouda (Damafro),lower fat
+1460,QC,Industrial,50.0,Mild and goaty,,0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Tomme de chèvre (Damafro),lower fat
+1461,QC,Industrial,56.0,Available: Fine Herbs and Pepper,Creamy,0,Fresh Cheese,Cow,Pasteurized,No Rind,Grand Duc (Le),lower fat
+1462,QC,Industrial,68.0,"Available: Plain Goat  Cheese, Goat  Cheese with Pepper, Goat  Cheese with Fine Herbs",Spreadable cheese,0,Soft Cheese,Goat,,,Chèvre Le Grand Cru,lower fat
+1463,QC,Industrial,74.0,,Fresh cheese,0,Soft Cheese,Cow,Pasteurized,No Rind,Ricotta (Damafro),lower fat
+1464,QC,Industrial,60.0,,Fresh Cheese,0,Soft Cheese,Cow,Pasteurized,No Rind,Mascarpone (Damafro),lower fat
+1465,QC,Artisan,55.0,Slightly woody,,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Vacherin de Châteauguay,lower fat
+1466,QC,Artisan,50.0,"Flavours of hazelnut, butter and apples",Washed rind with cider,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Tomme du Manoir affinée au cidre de pomme,lower fat
+1467,QC,Artisan,54.0,Smoked salmon,Smooth rind covered with dill,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,SOMO Brie au saumon fumé,lower fat
+1468,QC,Artisan,50.0,Mild,,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Sorcier de Missisquoi (Le),lower fat
+1469,QC,Artisan,55.0,Pronounced with a hazelnut woody flavour,,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Feuille d'automne,lower fat
+1470,QC,Artisan,45.0,"Woodsy flavours, toasted hazelnut notes","Pressed, moist washed-rind cheese",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Peau Rouge,lower fat
+1471,QC,Artisan,48.0,,"Pressed, surface-ripened, washed-rind cheese",0,Firm Cheese,Cow,Pasteurized,Washed Rind,Raclette affinée au cidre de pommes (Les Dépendances du Manoir),lower fat
+1472,QC,Artisan,55.0,"Sharp to pronounced, fruity with apple and toasted hazelnut flavours",,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Rougette de Brigham,lower fat
+1473,QC,Artisan,52.0,Sweetened with apple flavour,Filled with caramelised apple,0,Fresh Cheese,Cow and Goat,Pasteurized,,Tarapatapom,higher fat
+1474,QC,Farmstead,50.0,"Fairly full-flavoured, with a smooth and creamy finish",,0,Semi-soft Cheese,Cow,Pasteurized,,Louis Dubois,higher fat
+1475,QC,Farmstead,46.0,Sharp,"Smooth, washed rind",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Raclette des Appalaches,lower fat
+1476,QC,Farmstead,50.0,"Sharp and hazelnutty, becoming fruitier with age","Pressed surface-ripened and washed-rind cheese, ivory coloured interior with an orange tone,  natural rind",0,Semi-soft Cheese,Cow,Pasteurized,,Mamirolle (Le),lower fat
+1477,QC,Farmstead,50.0,Sharp,Pressed surface-ripened,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Délice des Appalaches,higher fat
+1478,QC,Artisan,50.0,Mild,"Bloomy rind, Camembert type",0,Soft Cheese,Cow,Thermised,Bloomy Rind,Casimir (Le),lower fat
+1479,QC,Artisan,50.0,Pronounced,Creamy,0,Soft Cheese,Cow,Thermised,Washed Rind,Diable aux Vaches (Le),lower fat
+1480,QC,Artisan,44.0,"Mild, Lactic, fungus flavour",,0,Semi-soft Cheese,Cow,Thermised,Bloomy Rind,Sieur Corbeau des Laurentides,lower fat
+1481,QC,Artisan,50.0,Subtle flavour of hazelnuts and reminiscent of maple syrup,,0,Soft Cheese,Cow,Thermised,Washed Rind,Cru des Érables (Le),lower fat
+1482,QC,Artisan,55.0,"Plain or seasoned with chives, fine herbs or tomato and basil",Vacuum-packed or stored in a brine,0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Feta Floralpe,lower fat
+1483,QC,Artisan,39.0,Sharp,Cooked cheese,0,Hard Cheese,Ewe,Pasteurized,,Brebiouais,lower fat
+1484,QC,Artisan,60.0,Slightly pungent and acid,Mild to sharp aroma with a hint of its soil,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Buchevrette,lower fat
+1485,QC,Artisan,60.0,"Sharp, lactic, goat flavour, slightly acid",Smooth and creamy with a bloomy rind,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Heidi,lower fat
+1486,QC,Artisan,60.0,"Mild and acidulous, seasoned with fine herbs and garlic","Creamy cheese, relatively dried and crumbly texture",0,Fresh Cheese,Goat,Pasteurized,No Rind,Micha,lower fat
+1487,QC,Artisan,42.0,Mild,Cheese made with a cheddarization process,0,Firm Cheese,Goat,Pasteurized,No Rind,Montagnard (Le),lower fat
+1488,QC,Artisan,55.0,Sharp and goat flavour,"Washed rind, Muenster type",0,Soft Cheese,Goat,Pasteurized,Washed Rind,Peter,lower fat
+1489,QC,Artisan,50.0,Butter and hazelnut taste,"Mixed whity rind, melting texture in its centre",0,Soft Cheese,Cow,Pasteurized,,Roubine de Noyan,lower fat
+1490,QC,Artisan,50.0,Buttery taste,Camembert type cheese,0,Soft Cheese,Cow and Goat,Pasteurized,Bloomy Rind,Soeur Angèle (La),lower fat
+1491,QC,Artisan,50.0,"Mild, lactic","Pressed, uncooked, interior-ripened cheese",0,Semi-soft Cheese,Cow,Pasteurized,,Saint-Paulin Fritz léger,lower fat
+1492,QC,Artisan,,"Sharp, slight hazelnut flavour",,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Empereur léger,lower fat
+1493,QC,Artisan,48.0,Sharp and fruity,"Pressed, surface ripened",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Raclette Fritz Médium,lower fat
+1494,QC,Artisan,48.0,"Sharp, peppery and fruity","Pressed, surface ripened",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Raclette Fritz Poivre,lower fat
+1495,QC,Artisan,48.0,"Very sharp, fruity","Pressed, surface ripened",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Raclette Fritz Fort,lower fat
+1496,QC,Artisan,50.0,Pronounced,,0,Soft Cheese,Goat,Pasteurized,Washed Rind,Chevrochon,lower fat
+1497,QC,Artisan,48.0,Fairly pronounced fruity flavours,Surface ripened,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Douanier (Le),lower fat
+1498,QC,Artisan,50.0,"Fruity, nutty taste accentuated by the aroma of St-Ambroise beer","Surface-ripened cheese, washed rind",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Clos Saint-Ambroise,lower fat
+1499,QC,Artisan,50.0,"Mild, lactic, slightly acidulated, flavoured with five peppercorns, garlic, herbs or parsley",,0,Semi-soft Cheese,Cow,Pasteurized,,Cristalia,lower fat
+1500,QC,Artisan,50.0,"Sharp, slight hazelnut flavour",,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Empereur,lower fat
+1501,QC,Artisan,40.0,"Sharp, fruity flavour with notes of apples and nuts","Pressed, cooked, surface- and interior-ripened, washed-rind cheese",0,Firm Cheese,Cow,Pasteurized,Washed Rind,Miranda,lower fat
+1502,QC,Artisan,48.0,"Mild, lactic",Covered with a black wax.,0,Semi-soft Cheese,Cow,Pasteurized,,Mouton noir,lower fat
+1503,QC,Artisan,50.0,"Mild, creamy flavour with hints of hazelnut","Pressed, surface-ripened",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Noyan,lower fat
+1504,QC,Artisan,50.0,Mild,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Port-Royal,lower fat
+1505,QC,Artisan,48.0,Sharp and fruity,"Pressed, surface ripened",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Raclette Fritz,lower fat
+1506,QC,Artisan,48.0,"Sharp, hazelnutty","Pressed, surface-ripened",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Raclette Griffon,lower fat
+1507,QC,Artisan,50.0,"Mild, Lacitc","Pressed, uncooked, interior-ripened cheese",0,Semi-soft Cheese,Cow,Pasteurized,,Saint-Paulin Fritz,lower fat
+1508,QC,Artisan,44.0,"Sharp, lactic and fruity, slightly woodsy","Pressed, surface and interior-ripened cheese, washed rind",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Vacherin Fritz Kaiser,lower fat
+1509,QC,Artisan,47.0,Sharp and slightly woodsy,"Moist, washed rind",0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Zurigo,lower fat
+1510,QC,Artisan,48.0,Mild,"Surface ripened, washed rind",0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Tomme du Haut-Richelieu,lower fat
+1511,QC,Artisan,31.0,"Lactic, lightly nutty with notes of caramel",,1,Firm Cheese,Cow,Raw Milk,,Gré des champs (Le),higher fat
+1512,QC,Artisan,44.0,Floral with a note of mushrooms,Light yellow color with small openings du to the type of moulding process,1,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,D'Iberville (Le),higher fat
+1513,QC,Artisan,29.0,Sharp nutty taste,Cooked mixed rind,1,Firm Cheese,Cow,Raw Milk,,Monnoir (Le),higher fat
+1514,QC,Farmstead,43.0,Buttery and fruity,"Orange rind, golden-yellow interior showing small holes",0,Semi-soft Cheese,Cow,Thermised,,Pikauba,higher fat
+1515,QC,Farmstead,48.0,Notes of cream and hazelnut,"Surface ripened, washed rind",0,Soft Cheese,Cow,Thermised,Washed Rind,Kénogami (Le),lower fat
+1517,QC,Industrial,39.0,Hazelnut flavor that intensifies with age,Creamy-colored,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar doux (Fromagerie Lemaire),higher fat
+1518,QC,Industrial,39.0,Hazelnut flavor that intensifies with age,Creamy-colored,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar mi-fort (Fromagerie Lemaire),higher fat
+1519,QC,Industrial,39.0,Hazelnut flavor that intensifies with age,Creamy-colored,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar fort (Fromagerie Lemaire),higher fat
+1520,QC,Industrial,39.0,Hazelnut flavour that intensifies with age,Creamy-colored,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar très fort (Fromagerie Lemaire),higher fat
+1521,QC,Industrial,,,Light Monterey Jack type cheese,0,Firm Cheese,Cow,Pasteurized,No Rind,Voltigeur,lower fat
+1522,QC,Industrial,40.0,"Emmental-like flavor, but less pronounced. Slightly sweet almond flavor.",Firm and supple cheese showing big round eyes distributed in the mass,0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse (Fromagerie Lemaire),lower fat
+1523,QC,Artisan,55.0,"Lactic, slightly acid",Cylindrical-shaped,0,Soft Cheese,Ewe,Pasteurized,,Deo Gratias (Le),lower fat
+1524,QC,Artisan,55.0,Vegetable flavor,"Very white, runny and unctuous. Small rounds.",0,Soft Cheese,Ewe,Pasteurized,Bloomy Rind,Secret de Maurice (Le),lower fat
+1525,QC,Artisan,45.0,Floral aroma,"Brownish with white specks, washed rind",0,Semi-soft Cheese,Ewe and Cow,Pasteurized,Washed Rind,Tomme D'Elles (La),higher fat
+1526,QC,Artisan,44.0,Pronounced with notes of cream and mushrooms,Veined cheese,0,Veined Cheeses,Cow,Raw Milk,,Ciel de Charlevoix (Le),higher fat
+1527,QC,Artisan,47.0,"Sharp, fruity with butter and hazelnut notes","Surface-ripened, washed rind, slightly orange, somewhat sticky texture",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Migneron de Charlevoix (Le),lower fat
+1529,QC,Farmstead,70.0,Slightly sweet taste,Semi-granular texture,0,Fresh Cheese,Ewe,Pasteurized,No Rind,Ricotta La Moutonnière,lower fat
+1530,QC,Farmstead,48.0,Mild and distinctive,"Veined cheese, natural rind",0,Veined Cheeses,Ewe,Pasteurized,,Bleu de la Moutonnière (Le),lower fat
+1531,QC,Farmstead,58.0,All sorts of subtle and full-bodied flavors from hazelnut to spices,,0,Soft Cheese,Ewe,Pasteurized,,Cabanon (Le),lower fat
+1532,QC,Farmstead,50.0,"Mild, almond taste","Creamy texture. Pressed cheese, uncooked.",0,Semi-soft Cheese,Ewe,Pasteurized,,Fleur des Monts,higher fat
+1533,QC,Farmstead,60.0,"Mild, slightly sweet","Creamy, soft texture",0,Fresh Cheese,Ewe,Pasteurized,,Neige de Brebis (Le),lower fat
+1534,QC,Farmstead,50.0,Strong and flavourful,"Creamy, slightly aged rind, very soft, becomes increasingly firm in texture and develops amber-coloured rind as it ages",0,Soft Cheese,Ewe,Pasteurized,Bloomy Rind,Bercail (Le),lower fat
+1535,QC,Farmstead,48.0,Delicate aroma of blue cheese without the sharp spicy flavour,Lightly veined by natural green and blue molds,0,Veined Cheeses,Ewe,Pasteurized,,Soupçon de Bleu (Le),lower fat
+1536,QC,Farmstead,58.0,Mild,,0,Soft Cheese,Ewe,Pasteurized,Bloomy Rind,Foin d'odeur (Le),lower fat
+1537,QC,Farmstead,54.0,"Pronounced, acidulous and salty","Lightly pressed, very soft and crumbly texture",0,Fresh Cheese,Ewe,Pasteurized,,Féta La Moutonnière,lower fat
+1538,QC,Artisan,42.0,"Flavors : plain, BBQ, garlic, onion, fine herbs, maple, souvlaki, 3 peppers and bacon",Cheese curds or blocks,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar frais (La Pépite d'Or),lower fat
+1541,QC,Artisan,52.0,,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarella (La Pépite d'Or),lower fat
+1542,QC,Artisan,39.0,Mild to sharp,"Creamy-colored, crumbly texture",0,Firm Cheese,Cow,Raw Milk,,Grand Cahill (Le),lower fat
+1543,QC,Artisan,39.0,Fruity flavor that intensifies with age,Medium white cheddar (3 to 9 months),0,Firm Cheese,Cow,Thermised,No Rind,Cheddar moyen (Fromagerie Perron),higher fat
+1544,QC,Artisan,39.0,Fruity flavor that intensifies with age,,0,Firm Cheese,Cow,Thermised,No Rind,Cheddar 1 an (Fromagerie Perron),higher fat
+1545,QC,Artisan,39.0,Fruity flavor that intensifies with age,,0,Firm Cheese,Cow,Thermised,No Rind,Cheddar 2 ans (Fromagerie Perron),higher fat
+1546,QC,Artisan,39.0,,,0,Firm Cheese,Cow,Thermised,No Rind,Doyen (Le),higher fat
+1547,QC,Artisan,39.0,,,0,Firm Cheese,Cow,Raw Milk,No Rind,Réserve spéciale 115e,higher fat
+1548,QC,Artisan,41.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse léger (Fromagerie Perron),lower fat
+1549,QC,Artisan,40.0,Mild hazelnutty flavor,"Swiss type cheese, interior ripened",0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse (Fromagerie Perron),lower fat
+1550,QC,Artisan,39.0,"Sharp to pronounced, winey flavour","Pressed and cooked cheese, interior-ripened",0,Firm Cheese,Cow,Thermised,No Rind,Cheddar au Porto (Fromagerie Perron),higher fat
+1551,QC,Artisan,40.0,Mild hazelnut flavor,Mild hazelnut aroma,0,Firm Cheese,Cow,Raw Milk,No Rind,Suisse au lait cru (Fromagerie Perron),lower fat
+1552,QC,Artisan,40.0,Very mild. Curds are aslo available BBQ seasoned,"Daily fresh, withe cheese curds, twist or blocks.",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar frais du jour (Fromagerie Perron),higher fat
+1553,QC,Artisan,24.0,Pronounced and fruity,"Pressed, storage cheese",0,Firm Cheese,Cow,Raw Milk,,Tomme des Demoiselles (La),higher fat
+1554,QC,Artisan,50.0,"Mild to tangy, slightly salty","White and velvety bloomy rind, smooth and creamy  texture",0,Soft Cheese,Cow,Raw Milk,Bloomy Rind,Jeune-Coeur,lower fat
+1555,QC,Artisan,50.0,"Sharp, hazelnut flavour and slightly salty",,0,Soft Cheese,Cow,Raw Milk,Washed Rind,Pied-de-vent,lower fat
+1556,QC,Artisan,45.0,Slightly nutty,Reblochon type cheese,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Curé Labelle,lower fat
+1557,QC,Artisan,48.0,Fresh cream taste,Raclette type cheese,0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Fée des bois,lower fat
+1558,QC,Artisan,48.0,Spicy,Raclette type cheese,0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Barre du jour,lower fat
+1559,QC,Artisan,57.0,,Spreadable cheese,0,Fresh Cheese,Goat,Pasteurized,No Rind,Chevrier,higher fat
+1560,QC,Artisan,35.0,,Twisted cheddar type cheese,0,Firm Cheese,Cow,Pasteurized,No Rind,Tortillard,higher fat
+1561,QC,Artisan,41.0,Nutty taste,Slightly crumbly texture,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar nature (le P'tit Train du Nord),higher fat
+1562,QC,Artisan,41.0,Nutty taste with a hint of Porto,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar aromatisé au Porto (le P'tit Train du Nord),higher fat
+1564,QC,Artisan,40.0,Distinct taste of nuts with creamy and buttery notes,"Pressed and cooked cheese, surface ripened, washed rind",0,Semi-soft Cheese,Cow,Thermised,,Wabassee,lower fat
+1565,QC,Artisan,40.0,Slightly fruity flavours with sweeter notes provided by the mead,"Pressed, cooked, washed-rind cheese",0,Firm Cheese,Cow,Thermised,,Windigo,lower fat
+1566,QC,Artisan,45.0,,Creamy,0,Semi-soft Cheese,Ewe and Cow,Thermised,,Duo du Paradis,lower fat
+1567,QC,Artisan,55.0,Mild,Creamy and crumbly,0,Fresh Cheese,Ewe,Pasteurized,No Rind,Petit Soleil,lower fat
+1568,QC,Artisan,55.0,,Fresh cheese marinated in sunflower oil,0,Soft Cheese,Goat,Pasteurized,No Rind,Boules de Chèvre,lower fat
+1569,QC,Industrial,60.0,"Salty, slightly tangy and strong taste","Soft, smooth and crumbly texture",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Fetos Feta léger (Saputo),lower fat
+1570,QC,Industrial,76.0,Fresh with a bitter hint,White fresh cheese,0,Fresh Cheese,Cow,Pasteurized,No Rind,Ricotta de Lactosérum Bari,lower fat
+1571,QC,Industrial,60.0,,Fresh soft cheese - Mozzarella,0,Fresh Cheese,Cow,Pasteurized,No Rind,Mozzarella (Fiorella),lower fat
+1572,QC,Industrial,52.0,,Stretchy cheese,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarella (Lino),lower fat
+1573,QC,Industrial,52.0,,Stretchy cheese,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarella (Mozza Fina),lower fat
+1574,QC,Industrial,52.0,,Stretchy cheese,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarella (Saputo),lower fat
+1578,QC,Industrial,39.0,,"Available white, yellow or marble",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar Kingsey,higher fat
+1581,QC,Industrial,45.0,"Mild, butter and almond flavours becomes more pronounced with age","Pressed and cooked cheese, interior-ripened, slightly stringy texture",0,Firm Cheese,Cow,Pasteurized,No Rind,Caciocavallo (Saputo),lower fat
+1582,QC,Industrial,45.0,"Sharp, lactic, smoky flavour","Pressed and cooked cheese, pasta filata",0,Firm Cheese,Cow,Pasteurized,No Rind,Caciocavallo fumé (Saputo),lower fat
+1583,QC,Industrial,45.0,Mild and hazelnutty,"Cooked, Canadian Swiss type of cheese",0,Firm Cheese,Cow,Pasteurized,,Cogruet (Le),lower fat
+1584,QC,Industrial,60.0,Goat's milk and fresh cream,Smooth and creamy texture,0,Soft Cheese,Cow,Pasteurized,No Rind,Mozzarina Mediterrano,lower fat
+1585,QC,Industrial,52.0,"Mild, milky flavoured cheese with a lightly salted butter flavour","Melt-in-your-mouth texture, stretchy cheese",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarellissima,lower fat
+1586,QC,Industrial,50.0,Sharp,,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Raclette Kingsey,lower fat
+1587,QC,Industrial,60.0,Delicate milk taste,"Pasta filata cheese, smooth, velvety and rather firm texture",0,Fresh Cheese,Cow,Pasteurized,No Rind,Bocconcini (Saputo),lower fat
+1588,QC,Industrial,60.0,Delicat milk taste,"Thread-like cheese stored in salt water, velvety texture",0,Soft Cheese,Cow,Pasteurized,No Rind,Trecce (Saputo),lower fat
+1589,QC,Industrial,55.0,"Salty, slightly tangy and strong taste. Available seasoned with sundried tomatoes, olives or oregano.","Soft, smooth and crumbly texture",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Fetos Feta (Saputo),lower fat
+1590,QC,Industrial,45.0,"Smooth and velvety, with a hint of butter, flavour becomes stronger and tangier with age","Pressed, cooked, stretch-type, interior-ripened cheese",0,Firm Cheese,Cow,Pasteurized,,Provolone (Saputo),lower fat
+1591,QC,Industrial,65.0,"Fresh, very mild, lactic",White fresh cheese,0,Fresh Cheese,Cow,Pasteurized,No Rind,Tuma,lower fat
+1593,QC,Artisan,50.0,"Flavours of hazelnut, mushrooms and sweet butter",,0,Soft Cheese,Cow,Thermised,Bloomy Rind,Riopelle de l'Isle (Le),higher fat
+1594,QC,Artisan,45.0,"Woodsy aroma, slightly acid taste","Uniform texture showing small holes, brushed rind",0,Semi-soft Cheese,Cow,Thermised,Brushed Rind,Tomme de Grosse-Île,higher fat
+1595,QC,Artisan,50.0,"Sharp, hazelnut flavour with a slight bitterness","Bloomy rind, washed rind",0,Soft Cheese,Cow,Thermised,Bloomy Rind,Mi-Carême,lower fat
+1596,QC,Artisan,39.0,Hazelnut flavour that intensifies with age,"Pressed and cooked cheese, interior ripened",0,Firm Cheese,Cow,Thermised,No Rind,Cheddar vieilli de l'île-aux-Grues,higher fat
+1597,QC,Artisan,39.0,Herbs flavor,Unripened,0,Firm Cheese,Cow,Pasteurized,No Rind,St-Antoine (Le),higher fat
+1598,QC,Artisan,55.0,"Mild, pungent and very salty",Goat's Feta. White and creamy texture which is not crumbly.,0,Semi-soft Cheese,Goat,Raw Milk,No Rind,Fermier (Le),lower fat
+1599,QC,Artisan,40.0,"Sharp, slight fruity and hazelnut note finish",,0,Semi-soft Cheese,Goat,Raw Milk,Washed Rind,Capra (Le),lower fat
+1600,QC,Artisan,63.0,Mild with slight tart accent. Herbs or plain.,"Fresh cheese, spreadable creamy texture.",0,Fresh Cheese,Goat,Pasteurized,No Rind,Caprice (Le),lower fat
+1601,QC,Artisan,43.0,"Sharp, with a long finish",Creamy cheese with pleasant mushroom aroma,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Barbu (Le),lower fat
+1602,QC,Artisan,43.0,Light goat taste with flavors of thyme and olive,Natural rind or ripened in olive oil.,0,Fresh Cheese,Goat,Pasteurized,No Rind,Crottin (Le),lower fat
+1603,QC,Artisan,47.0,"Mild, with a slightly pungent taste",Milk and field flower aroma,0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Freddo (Le),higher fat
+1604,QC,Artisan,56.0,"Creamy, fresh milk taste with a hint of salt",Camembert type cheese with bloomy rind,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Petit Poitou (Le),lower fat
+1605,QC,Artisan,48.0,Mild,"Camembert type cheese, white bloomy rind that has a  mushroom aroma, creamy texture",0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Petit Normand (Le),lower fat
+1606,QC,Artisan,49.0,Mild and milky with a bitter touch,"Bloomy rind, fresh mushroom aroma",0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Pizy (Le),lower fat
+1607,QC,Artisan,48.0,Sharp,,0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Tome (La),lower fat
+1608,QC,Artisan,49.0,Pronounced with an explosive finish,"Pyramidal shape, froggy rind, can present bluish mold",0,Soft Cheese,Goat,Pasteurized,,Sabot de Blanchette (Le),lower fat
+1609,QC,Industrial,55.0,"Creamy and mild available in the following: fines herbes, garlic and red pepper","Creamy and elastic cheese, easily spreadable",0,Fresh Cheese,Goat,Pasteurized,No Rind,Biquet à la crème (Le),higher fat
+1610,QC,Industrial,72.0,"Plain, seasoned with tomato and thyme or chives",Cynlindrical-shaped spreadable cheese,0,Soft Cheese,Goat,Pasteurized,No Rind,Déli Chèvre (Le),lower fat
+1611,QC,Industrial,43.0,,"Dried cheese cut into rounds, crumbly texture",0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Crottin de chèvre Capriati,lower fat
+1612,QC,Industrial,42.0,"Free of bitterness or spiciness, nutty and buttery flavours, sometimes ending in a hint of caramel",Cheddar-type of cheese ripened,0,Firm Cheese,Goat,Pasteurized,,Chèvre Noir,lower fat
+1613,QC,Industrial,42.0,"Mild, slightly fruity","Cheddar cheese type, firm but smooth texture",0,Firm Cheese,Goat,Pasteurized,,Chevrino,lower fat
+1614,QC,Industrial,62.0,,"Soft and smooth paste, unripened",0,Fresh Cheese,Goat,Pasteurized,No Rind,Chèvre doux,lower fat
+1615,QC,Industrial,43.0,"Sharp, goat flavour Available : plain (crottin type) or marinated in oil","Unripened, natural rind",0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Capriati,lower fat
+1616,QC,Industrial,58.0,"Slightly acidulous (varieties available: plain, herb, pepper)",Crumbly cheese when cold and smooth at room temperature,0,Fresh Cheese,Goat,Pasteurized,No Rind,Biquet (Le),lower fat
+1617,QC,Industrial,52.0,"Mild, slightly acidulous","Crumbly and light texture when young, becomes runny with age",0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Chèvre fin,lower fat
+1618,QC,Industrial,55.0,"Pronounced, mild, acidulous and salty",Very tight paste,0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Feta Tradition,lower fat
+1619,QC,Industrial,58.0,Rich,"Crumbly when cold but smooth and creamy at room temperature, soft and unripened",0,Fresh Cheese,Goat,Pasteurized,No Rind,Médaillon et le Tournevent (Le),lower fat
+1620,QC,Artisan,63.0,Mild and melting in the mouth,Fresh cheese covered in seasoning,0,Fresh Cheese,Goat,Pasteurized,No Rind,Bouchées d'amour,lower fat
+1621,QC,Artisan,65.0,Mild and salty,Feta cheese,0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Fleur de Neige,lower fat
+1622,QC,Artisan,40.0,Mild,Smooth and moist cheese. Cheddar type cheese,0,Firm Cheese,Goat,Pasteurized,No Rind,Samuel et Jérémie,lower fat
+1623,QC,Artisan,40.0,"Mild to sharp, depending on age","Cheese covered in wax, making it ripen slowly internally",0,Firm Cheese,Goat,Pasteurized,,Sieur Colomban,lower fat
+1624,QC,Artisan,41.0,"Mild, slight taste of hazelnut, cream and salted butter",Creamy,0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Pré des Mille-Îles (Le),lower fat
+1625,QC,Artisan,43.0,Nutty and buttery,"Cheese with small eyes (holes), washed rind",0,Semi-soft Cheese,Goat,Raw Milk,Washed Rind,Tour St-François (La),lower fat
+1626,QC,Artisan,43.0,Mild and creamy,"Dried cheese slightly ripened, curd style, slightly brittle in texture",0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Ti-Lou,lower fat
+1627,QC,Artisan,63.0,"Mild, fresh, very delicate goat flavour","Creamy, non ripened",0,Fresh Cheese,Goat,Pasteurized,No Rind,Petit Prince (Le),lower fat
+1628,QC,Artisan,57.0,Mild with flavour of fresh mushrooms,"Bloomy and white rind that gives woody aromas, camembert type, creamy texture",0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Lavallois (Le),lower fat
+1629,QC,Artisan,42.0,Light and mild,Unripened firm cheese,0,Firm Cheese,Cow,Pasteurized,No Rind,Fleurs d'Ail,lower fat
+1630,QC,Artisan,39.0,,Cheese curds or blocks,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar frais Le Fromage au Village,higher fat
+1631,QC,Artisan,39.0,,Ripened cheddar,0,Firm Cheese,Ewe,Thermised,,Rouet,higher fat
+1632,QC,Artisan,39.0,"Mild, lactic and fruity","Cheddar type cheese, interior ripened",0,Firm Cheese,Cow,Raw Milk,No Rind,Cru du Clocher (Le),higher fat
+1633,QC,Artisan,40.0,"Nutty, lactic and fruity accentuated.","Cheddar type cheese, interior ripened.",0,Firm Cheese,Cow,Raw Milk,No Rind,Cru du Clocher (Réserve 2 ans) (Le),higher fat
+1635,QC,Farmstead,39.0,Hazelnut flavour that intensifies with age,,1,Firm Cheese,Cow,Pasteurized,No Rind,Rapide Arcand (Le),higher fat
+1636,QC,Farmstead,39.0,Hazelnut flavour that intensifies with age,Strong cheddar,1,Firm Cheese,Cow,Pasteurized,No Rind,Chute à Michel (La),higher fat
+1637,QC,Farmstead,39.0,Hazelnut flavour that intensifies with age,Extra strong cheddar,1,Firm Cheese,Cow,Pasteurized,No Rind,Chute à l'Ours (La),higher fat
+1638,QC,Farmstead,39.0,Pronounced hazelnut flavor,Extra strong cheddar,1,Firm Cheese,Cow,Pasteurized,No Rind,Chute Chaudière (La),higher fat
+1639,QC,Farmstead,42.0,Taste of butter with a slight acid touch,"Ripened, smooth and creamy texture",1,Semi-soft Cheese,Cow,Pasteurized,No Rind,St-Félicien Lac St-Jean,lower fat
+1640,QC,Industrial,40.0,Light bitter almond and milky taste,"Interior-ripened, ivory-colored, shows round holes dispersed through  the cheese",0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse vieilli (Fromagerie St-Fidèle),lower fat
+1641,QC,Industrial,,,Interior-ripened,0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse léger (Fromagerie St-Fidèle),lower fat
+1642,QC,Industrial,41.0,Hazelnut flavor that intensifies with age,Fresh cheese curds or rounds,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar frais (Fromagerie St-Fidèle),higher fat
+1643,QC,Industrial,41.0,Hazelnut flavor that intensifies with age,Creamy-colored,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar doux (Fromagerie St-Fidèle),higher fat
+1644,QC,Industrial,41.0,Hazelnut flavor that intensifies with age,Creamy-colored,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar mi-fort (Fromagerie St-Fidèle),higher fat
+1645,QC,Industrial,41.0,Hazelnut flavor that intensifies with age,Creamy-colored,0,Firm Cheese,Cow,Pasteurized,,Cheddar fort (Fromagerie St-Fidèle),higher fat
+1646,QC,Industrial,41.0,Hazelnut flavour that intensifies with age,Creamy-colored,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar très fort (Fromagerie St-Fidèle),higher fat
+1647,QC,Industrial,40.0,Slightly nutty with a lovely mix of port,Ivory coloured cheese in the centre with a crimson colour on the outside created by soaking,0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse macéré au porto (Fromagerie St-Fidèle),lower fat
+1648,QC,Industrial,40.0,Slightly nutty taste typical of Suisse St-Fidèle,Ivory coloured cheese in centre and an amber colour on the outside created by soaking,0,Firm Cheese,Cow,Pasteurized,,Suisse macéré au mistelle,lower fat
+1649,QC,Industrial,40.0,"Slightly nutty taste typical of Suisse St-Fidèle, flavoured with apple cider",,0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse macéré au Cidre de pommes,lower fat
+1650,QC,Industrial,40.0,Slight nutty taste and mild almond depending on age,Interior ripened,0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse (Fromagerie St-Fidèle),lower fat
+1651,QC,Artisan,40.0,,"Cheddar type cheese, unripened",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar Jocoeur,lower fat
+1652,QC,Artisan,41.0,"Delicate, milk taste, with slightly acidulous accents",The interior presents small holes.,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Fredondaine,lower fat
+1653,QC,Artisan,46.0,,"Gray and dry rind that has a mushroom aroma. Ivory colored cheese, supple and showing small holes inside",0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Farandole,lower fat
+1654,QC,Artisan,40.0,Delicate nutty taste,"Natural rind, light grey colour",0,Firm Cheese,Cow,Pasteurized,,Sonatine,lower fat
+1655,QC,Artisan,40.0,"Subtle delicate flavor, slightly nutty","Firm, surface ripened cheese",0,Firm Cheese,Ewe,Thermised,,Allegretto,lower fat
+1656,QC,Farmstead,65.0,"Mild (Available Varieties: herbs, chive, garlic, pepper)",Smooth cheese,0,Fresh Cheese,Goat,Pasteurized,No Rind,Blanchon (Le),lower fat
+1657,QC,Farmstead,45.0,Mushroomy and milky taste,Soft white and chalky cheese,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,P'tit Diable,lower fat
+1658,QC,Farmstead,60.0,"Slightly goat, ash and fruit flavour","Soft white and chalky cheese, ashen",0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Saint-Isidore à croûte cendrée,lower fat
+1659,QC,Farmstead,68.0,"Delicate, mild goat flavour",Creamy,0,Fresh Cheese,Goat,Pasteurized,No Rind,Pampille,lower fat
+1660,QC,Farmstead,60.0,Mild and long lasting flavour,"Creamy and melst in your mouth cheese, bloomy rind",0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,P'tite Chevrette,lower fat
+1661,QC,Farmstead,56.0,Mushroomy and milky flavor,Rind unctuous to runny when aged,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Saint-Isidore à croûte fleurie,lower fat
+1662,QC,Farmstead,48.0,"Plain, with peppers and rosemary",Cooked,0,Semi-soft Cheese,Goat,Raw Milk,No Rind,Chèvre d'Or,lower fat
+1663,QC,Farmstead,35.0,Sharp,"Unpressed, uncooked",0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Bouton de Culotte (Le),lower fat
+1666,QC,Farmstead,12.0,,Pressed and cooked,0,Hard Cheese,Goat,Pasteurized,No Rind,Parmesan Chèvrerie Dion,higher fat
+1667,QC,Farmstead,74.0,"Varieties available: plain, garlic, chives, pepper, herb.",,0,Fresh Cheese,Goat,Pasteurized,No Rind,Délice,lower fat
+1669,QC,Farmstead,59.0,Salty,,0,Semi-soft Cheese,Goat,Pasteurized,No Rind,P'tit féta,lower fat
+1670,QC,Farmstead,46.0,"Available; mild, medium and strong",Cheddar type,0,Firm Cheese,Goat,Pasteurized,No Rind,Montbeil (Le),lower fat
+1671,QC,Farmstead,70.0,Mild,White and creamy,0,Fresh Cheese,Goat,Pasteurized,No Rind,Roulé (Le),lower fat
+1672,QC,Farmstead,35.0,"Mild and lactic (varieties available: herb, nut, spiced, pepper",Hint of cream,0,Soft Cheese,Goat,Pasteurized,No Rind,Montefino assaisonné,lower fat
+1673,QC,Farmstead,65.0,Mild,Creamy,0,Soft Cheese,Goat,Pasteurized,No Rind,Montefino frais,lower fat
+1674,QC,Farmstead,35.0,Sharp,,0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Montefino affinée,lower fat
+1675,QC,Farmstead,65.0,,Lightly pressed,0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Feta Diodati,lower fat
+1676,QC,Artisan,44.0,Mild,"Moist, bloomy rind",0,Soft Cheese,Cow,Raw Milk,Bloomy Rind,Caprice des Saisons,higher fat
+1677,QC,Artisan,44.0,Mild,"Smooth, washed rind",0,Soft Cheese,Cow,Raw Milk,Washed Rind,Caprice des Cantons,lower fat
+1699,QC,Industrial,39.0,"Available fine herbs, hot pepper or seasoned peppers","Seasoned or plain curds or block, daily fresh. Slight bitter almond and milk aroma",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar Charlevoix,higher fat
+1700,QC,Industrial,39.0,"Hazelnut flavour that intensifies with age.  Available; mild, medium, strong and extra strong","Aged cheddar, smooth and crumbly texture, cream-colored",0,Firm Cheese,Cow,Raw Milk,No Rind,Vieux Charlevoix,higher fat
+1704,QC,Industrial,35.0,Taste evolving without bitterness,"Pressed and cooked, interior-ripened, dark yellow color, hard and crumbly texture, melts in mouth",0,Firm Cheese,Cow,Raw Milk,,Hercule de Charlevoix (L'),higher fat
+1705,QC,Industrial,42.0,Hazelnut,,0,Firm Cheese,Cow,Thermised,Washed Rind,1608 (Le),higher fat
+1706,QC,Industrial,54.0,"Mild, fruity and hazelnut, without a harsh aftertaste","Creamy, rich and velvety texture",0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Fleurmier de Charlevoix (Le),lower fat
+1707,QC,Artisan,50.0,Almond taste,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Noble (Le),lower fat
+1708,QC,Artisan,50.0,Mushroom and butter aroma.,"Creamy texture, soil aroma",0,Semi-soft Cheese,Cow,Raw Milk,Bloomy Rind,Prés de la Bayonne (Les),lower fat
+1709,QC,Artisan,50.0,Strong taste with a long finish without bitterness.,"Pressed, fresh milk and fruity aroma",0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Pré-Cieux (Le),lower fat
+1710,QC,Artisan,55.0,"Varieties available: plain, sunflower oil and herbs.",,0,Fresh Cheese,Cow,Pasteurized,No Rind,Féta du Domaine,lower fat
+1711,QC,Artisan,50.0,Mild,Creamy. Made from Ayrshire milk cow.,0,Soft Cheese,Cow,Raw Milk,Bloomy Rind,Cendré des Prés (Le),lower fat
+1712,QC,Industrial,57.0,Mild,"White cheese, moist texture",0,Soft Cheese,Cow,Pasteurized,No Rind,Akawi,lower fat
+1713,QC,Industrial,57.0,Mild and salty with a light buttery flavor,White and humid cheese with a flexible texture,0,Soft Cheese,Cow,Pasteurized,No Rind,Baladi (Fromagerie Marie Kadé),lower fat
+1714,QC,Industrial,60.0,,,0,Soft Cheese,Cow,Pasteurized,,Espagnole,lower fat
+1715,QC,Industrial,50.0,,,0,Semi-soft Cheese,Cow,Pasteurized,,Kobrossi,lower fat
+1716,QC,Industrial,50.0,Mild and lactic,Fresh thick white cheese,0,Fresh Cheese,Cow,Pasteurized,No Rind,Labneh,lower fat
+1717,QC,Industrial,50.0,,Preserved in vegetable oil,0,Fresh Cheese,Cow,Pasteurized,No Rind,Labneh dans l'huile,lower fat
+1718,QC,Industrial,52.0,"Fresh and salty taste, lactic flavor that develops itself through ripening",Feta-like cheese,0,Soft Cheese,Cow,Pasteurized,No Rind,Domiati,lower fat
+1720,QC,Industrial,50.0,Mild and salty,Stretched and coiled up in a knot,0,Firm Cheese,Cow,Pasteurized,No Rind,Moujadalé,lower fat
+1721,QC,Industrial,50.0,Mild and salty with a slight nigella taste,"White cheese, elastic and crumbly texture",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Nabulsi (Fromagerie Marie Kadé),lower fat
+1722,QC,Industrial,50.0,Mild and salty,"White, crumbly and elastic",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Syrean,lower fat
+1723,QC,Industrial,50.0,"Fresh, salty with nigella hints","Smooth texture, preserved in brine",0,Firm Cheese,Cow,Pasteurized,No Rind,Tressé (Fromagerie Marie Kadé),lower fat
+1725,QC,Industrial,50.0,Mild,White interior folded like a book,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Halloom,lower fat
+1726,QC,Industrial,52.0,"Mild to pungent, slightly salty","No rind, crumbly",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Istambouli,lower fat
+1727,QC,Industrial,38.0,Varies according to seasoning,,0,Firm Cheese,Cow,Pasteurized,No Rind,Shinglish,lower fat
+1728,QC,Artisan,65.0,"Available in 4 different flavors : plain, chives, spices or chocolate",Spreadable goat's cheese,0,Fresh Cheese,Goat,Pasteurized,No Rind,Sainte-Rose,lower fat
+1729,QC,Artisan,55.0,Fresh,"Fresh cheddar, curds or blocks",0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Petit Heidi du Saguenay,lower fat
+1730,QC,Artisan,55.0,Mild,,0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Rosé du Saguenay,lower fat
+1731,QC,Artisan,50.0,Mild,,0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Sainte-Rose lavé au vin,lower fat
+1732,QC,Artisan,43.0,Mild,,0,Semi-soft Cheese,Goat,Raw Milk,Washed Rind,Tomme des Joyeux Fromagers (La),lower fat
+1733,QC,Industrial,39.0,,Cheese curds or blocks. Daily fresh.,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar frais (Fromagerie Saint-Laurent),higher fat
+1734,QC,Industrial,39.0,Hazelnut flavor that intensifies with age,Yellow and white,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar doux (Fromagerie Saint-Laurent),higher fat
+1735,QC,Industrial,39.0,Hazelnut flavour more pronounced than mild cheddar.,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar moyen (Fromagerie Saint-Laurent),higher fat
+1736,QC,Industrial,39.0,More pronounced hazelnut flavor than younger cheddars,Aged cheddar,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar fort (Fromagerie Saint-Laurent),higher fat
+1737,QC,Industrial,39.0,Fine herbs,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar aux fines herbes (Fromagerie Saint-Laurent),higher fat
+1738,QC,Industrial,45.0,Salty,In brine,0,Firm Cheese,Cow,Pasteurized,No Rind,Tortillons (Fromagerie Saint-Laurent),lower fat
+1739,QC,Industrial,40.0,Lighter taste than cheddar,,0,Firm Cheese,Cow,Pasteurized,No Rind,Brick (Fromagerie Saint-Laurent),lower fat
+1740,QC,Industrial,45.0,Hint of porto,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar au Porto (Fromagerie Saint-Laurent),higher fat
+1741,QC,Industrial,35.0,Sharp,Pressed and cooked,0,Hard Cheese,Cow,Pasteurized,,Parmesan (Fromagerie Saint-Laurent),lower fat
+1742,QC,Industrial,45.0,"Mild flavor of cream, almond and hazelnut",Rind in red wax,0,Firm Cheese,Cow,Pasteurized,,Gouda (Fromagerie Saint-Laurent),lower fat
+1743,QC,Industrial,45.0,Mild,Cheese with irregular holes,0,Firm Cheese,Cow,Pasteurized,,Suisse (Fromagerie Saint-Laurent),higher fat
+1744,QC,Industrial,42.0,,Cheese curds or blocks,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar frais (Fromagerie des Basques),lower fat
+1745,QC,Industrial,39.0,Hazelnut flavor,"White, yellow or marble",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar moyen (Fromagerie des Basques),higher fat
+1746,QC,Industrial,39.0,Hazelnut flavour,"White, yellow or marble",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar fort (Fromagerie des Basques),higher fat
+1747,QC,Industrial,39.0,Hazelnut flavor,"White, yellow or marble",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar extra-fort (Fromagerie des Basques),higher fat
+1748,QC,Industrial,42.0,"BBQ spices, herbs, pepper, bacon or tomato and basil",Curds or blocks (herbs and pepper),0,Firm Cheese,Cow,Pasteurized,No Rind,Fromage frais assaisonné,lower fat
+1749,QC,Industrial,42.0,"Plain, herbs or BBQ",,0,Firm Cheese,Cow,Pasteurized,No Rind,Fromage salé en tortillons,lower fat
+1750,QC,Industrial,42.0,Salty,Fresh cheese kept in brine for a few hours,0,Firm Cheese,Cow,Pasteurized,No Rind,P'tit Basque,lower fat
+1751,QC,Industrial,42.0,Smoky flavor,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar fumé au bois d'érable,higher fat
+1752,QC,Industrial,54.0,Butter and hazelnut taste,Supple and soft cheese,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Notre-Dame-des-Neiges (Le),lower fat
+1753,QC,Industrial,54.0,,"Reddish interior, very distinctive aroma",0,Soft Cheese,Cow,Pasteurized,Washed Rind,Mackenzie (Le),lower fat
+1754,QC,Industrial,42.0,Available plain or smoked,"Yellow-colored, tender texture",0,Firm Cheese,Cow,Pasteurized,,Sieur Riou-x (Le),lower fat
+1755,QC,Industrial,42.0,,Shows smal holes. Cripsy on surface when its interior is compact and soft.,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Trois-Pistoles (Le),lower fat
+1756,QC,Industrial,45.0,Distinctive flavour with fruity notes,"Surface ripened, washed rind",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,L'Héritage,lower fat
+1757,QC,Industrial,42.0,Mild to sharp,"Cheese with irregular holes, washed rind",0,Firm Cheese,Cow,Pasteurized,Washed Rind,Suisse (Fromagerie des Basques),lower fat
+1758,QC,Artisan,36.0,Also available seasoned with organic garlic flower,Cheddar type firm cheese,1,Firm Cheese,Cow,Raw Milk,,Troubadour (Le),higher fat
+1759,QC,Artisan,36.0,"Cream, hazelnut, flowers and smoky flavor","Pressed and cooked, golden to copper-colored rind",1,Firm Cheese,Cow,Raw Milk,,Ménestrel (Le),higher fat
+1760,QC,Artisan,48.0,"Vegetables, mushroom, cut herbs and damp wood aromas","White and gray bloom on its rind, cylindrical shape, slightly crumbly and melting texture",1,Veined Cheeses,Cow,Pasteurized,,Fleuron (Le),lower fat
+1761,QC,Artisan,44.0,Sharp,"Pink-orangey washed rind, partly covered with a white to gray indigenous penicillium",1,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Fou du Roy (Le),lower fat
+1762,QC,Artisan,42.0,Lively creamy flavor. Fresh mushrooms and caramel aromas,Dark rind,1,Veined Cheeses,Cow,Pasteurized,,Rassembleu (Le),lower fat
+1767,QC,Artisan,45.0,Mild,Available : cheese rounds or curds,0,Firm Cheese,Cow,Pasteurized,,Fromage en grains ou en meule,higher fat
+1768,QC,Artisan,40.0,,Creamy cheese. Made from Ayrshire's cow milk.,0,Soft Cheese,Cow,Raw Milk,Bloomy Rind,Desneiges (Le),higher fat
+1769,QC,Artisan,45.0,Pronounced,Orange rind washed with salty water. Made from Ayrshire milk cow.,0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Bouton d'Or (Le),higher fat
+1770,QC,Farmstead,48.0,"Mild and creamy, slightly acid, slight goat flavour","Soft cheese, white to yellowy natural rind, chalky and unctuous texture",0,Soft Cheese,Goat,Pasteurized,,Jac le Chevrier,lower fat
+1771,QC,Industrial,72.0,Mild and acidulous,"White, creamy and thick",0,Fresh Cheese,Cow,Pasteurized,No Rind,Labneh (Fromagerie Polyethnique),lower fat
+1772,QC,Industrial,,Mild and acidulous,"White, creamy and thick",0,Fresh Cheese,Cow,Pasteurized,No Rind,Labneh léger (Fromagerie Polyethnique),lower fat
+1773,QC,Industrial,,Mild and salty,"Compact, unripened",0,Soft Cheese,Cow,Pasteurized,No Rind,Akawie léger (Fromagerie Polyethnique),lower fat
+1774,QC,Industrial,50.0,"Mild, lactic and slightly salted","White cheese, folded like a book",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Haloumi (Fromagerie Polyethnique),lower fat
+1775,QC,Industrial,55.0,"Fresh, lime, slightly salty","No rind, soft compact block",0,Soft Cheese,Cow,Pasteurized,No Rind,Baladi (Fromagerie Polyethnique),lower fat
+1776,QC,Industrial,57.0,Mild and salty,"Compact, unripened",0,Soft Cheese,Cow,Pasteurized,No Rind,Akawie (Fromagerie Polyethnique),lower fat
+1777,QC,Industrial,50.0,Fresh,Thread-like cheese stored in salt water,0,Firm Cheese,Cow,Pasteurized,No Rind,Tressé (Fromagerie Polyethnique),lower fat
+1778,QC,Industrial,48.0,"Mild, fresh, salty and slightly spicy",,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Nabulsi (Fromagerie Polyethnique),lower fat
+1779,QC,Industrial,39.0,"Mild and creamy taste. Available flavors : fine herbs, tomato and basil or spicy.",Cream-colored or colored. Smooth and supple texture,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar assaisonné St-Guillaume,higher fat
+1780,QC,Industrial,39.0,"Mild and creamy flavor, hazelnut taste, buttery aroma",Creamy-colored or colored. Smooth and supple texture.,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar doux St-Guillaume,higher fat
+1781,QC,Industrial,39.0,Mild and creamy flavor,"Creamy-coloured, supple and smooth texture. Cheese curds or blocks.",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar frais St-Guillaume,higher fat
+1782,QC,Industrial,39.0,Hazelnut flavor that intensifies with age,A little dryer than mild cheddar,0,Firm Cheese,Cow,Raw Milk,No Rind,Cheddar mi-fort St-Guillaume,higher fat
+1783,QC,Industrial,39.0,"Sharp nutty flavor, almond and butter aroma",Brittle and crumbly texture,0,Firm Cheese,Cow,Raw Milk,No Rind,Cheddar fort St-Guillaume,higher fat
+1784,QC,Industrial,39.0,"Sharp nutty flavor, almond and butter aroma",Crumbly and brittle texture,0,Firm Cheese,Cow,Raw Milk,No Rind,Cheddar extra-fort St-Guillaume,higher fat
+1785,QC,Industrial,35.0,Salty. Also available : BBQ flavor,Cream-colored or colored. Unripened and unpressed. Preserved in brine.,0,Firm Cheese,Cow,Pasteurized,No Rind,St-Tordu,higher fat
+1786,QC,Industrial,42.0,Very mild,"Creamy and elastic texture, irregularly prickled with small holes",0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Brick St-Guillaume,lower fat
+1787,QC,Industrial,44.0,"Very light hazelnut taste, slightly sour",Light yellow with soft texture,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Monterey Jack St-Guillaume,lower fat
+1788,QC,Industrial,40.0,"Taste reminiscent of Emmental but less pronounced, delicate taste of sugared almonds","Shiny, soft cheese, no rind. Round ""eyes"", distributed throughout interior.",0,Firm Cheese,Cow,Pasteurized,No Rind,Suisse St-Guillaume,lower fat
+1793,QC,Farmstead,70.0,"Unsalted, the acid is conterbalanced by the taste of cream, slight goat flavour",White cheese with a smooth and creamy texture,0,Fresh Cheese,Goat,Pasteurized,No Rind,Cabrita,lower fat
+1794,QC,Farmstead,45.0,Fruity notes with a finish of hints of spice,"Amber-colored rind, golden interior with small holes.",0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Dame de Coeur  (La),higher fat
+1795,QC,Farmstead,45.0,Woody notes,"Semi-soft and unctuous cheese, golden rind",0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Mistouk (Le),higher fat
+1796,QC,Farmstead,45.0,Fruity and almond hints,,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Piekouagami (Le),higher fat
+1797,QC,Farmstead,52.0,Fresh hazelnut flavor,Camembert-type cheese with a bloomy rind. Smooth and unctuous texture.,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Saint-Coeur-de-Marie,lower fat
+1798,QC,Farmstead,38.0,,Smooth and creamy textured cheddar,0,Firm Cheese,Cow,Pasteurized,No Rind,Froméga,higher fat
+1799,QC,Farmstead,45.0,"Crabapple and butter flavors, well balanced","Rind color of copper, its interior is golden-ivory-colored, fruity aroma",1,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Raclette de Compton,lower fat
+1800,QC,Farmstead,39.0,Bloomy and nutty,"Orange-colored rind, woody smell, flexible texture",1,Firm Cheese,Cow,Raw Milk,Washed Rind,Alfred Le Fermier,higher fat
+1801,QC,Artisan,39.0,Lactic taste,Also colored or marbled,1,Firm Cheese,Cow,Raw Milk,No Rind,Cheddar doux (l'Ancêtre),higher fat
+1802,QC,Artisan,39.0,Lactic,,1,Firm Cheese,Cow,Raw Milk,No Rind,Cheddar moyen (l'Ancêtre),higher fat
+1803,QC,Artisan,39.0,Lactic,Slightly crumbly texture,1,Firm Cheese,Cow,Raw Milk,No Rind,Cheddar fort  (l'Ancêtre),higher fat
+1804,QC,Artisan,39.0,Lactic,,1,Firm Cheese,Cow,Raw Milk,No Rind,Cheddar extra-fort (l'Ancêtre),higher fat
+1805,QC,Artisan,52.0,"Delicate taste of milk and butter, slightly acid","Elastic, soft, supple, fibrous and slightly crunchy texture",1,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarella 15% (l'Ancêtre),lower fat
+1806,QC,Artisan,32.0,Rich flavour of hazelnut with a hint of saltiness,"Pressed and cooked cheese, interior ripened",1,Hard Cheese,Cow,Pasteurized,,Parmesan (l'Ancêtre),higher fat
+1807,QC,Artisan,40.0,,,1,Firm Cheese,Cow,Raw Milk,,Emmental (l'Ancêtre),lower fat
+1808,QC,Artisan,52.0,"Delicate taste of milk and butter, slightly acid","Elastic, soft, supple, fibrous and slightly crunchy texture",1,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarella 20% (l'Ancêtre),lower fat
+1809,QC,Artisan,55.0,"Mild, lactic",,1,Firm Cheese,Cow,Pasteurized,,Frugal,lower fat
+1810,QC,Artisan,65.0,Acidulous,"Crumbly and soft texture, whitish",0,Fresh Cheese,Cow,Pasteurized,No Rind,Ricotta (l'Ancêtre),lower fat
+1811,QC,Industrial,33.0,"Hazelnut taste that sharpens with age. Available: mild, medium, strong, extra-strong 1 year, 2 years and 3 years",,1,Firm Cheese,Cow,Thermised,No Rind,"Cheddar (Biobio) - 1 year, 2 years and 3 years",higher fat
+1814,QC,Industrial,52.0,"Light milk and butter taste, hardly acidulous",,1,Firm Cheese,Cow,Pasteurized,No Rind,Biobio Mozzarella,lower fat
+1815,QC,Industrial,55.0,Mild cheddar taste,,1,Firm Cheese,Cow,Pasteurized,No Rind,Biobio fromage 7%,lower fat
+1816,QC,Industrial,33.0,"Rich, nutty, robust, sharp taste, rather salty",,1,Hard Cheese,Cow,Thermised,No Rind,Parmesan (Biobio),higher fat
+1817,QC,Industrial,40.0,"Pronounced nutty taste, mild and melt-in-the-mouth, slightly sweet",,1,Firm Cheese,Cow,Thermised,No Rind,Suisse (Biobio),lower fat
+1827,QC,Industrial,48.0,Fresh cream with a hint of hazelnut,Self-colored chalky and creamy texture,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Attrape-Cœur (L'),higher fat
+1828,ON,Artisan,44.0,"Available with 8 different seasonings : crushed pepper, ground pepper, garlic, jalapenos, garlic and chives, italian, fine herbs and vegetables",Fresh cheese curds or blocks,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Cheddar frais (Fromagerie du Matin),higher fat
+1830,BC,Farmstead,55.0,Distinct flavor,"white, slices nicely",0,Semi-soft Cheese,Goat,Pasteurized,,Mild Goat Cheese,lower fat
+1841,MB,Farmstead,42.0,"Mild, slightly nutty taste",,0,Firm Cheese,Cow,Pasteurized,No Rind,Edam (Bothwell),lower fat
+1842,MB,Farmstead,42.0,"Midly spicy, exotic flavour",,0,Firm Cheese,Cow,Pasteurized,,Madgascar Green Peppercorn,lower fat
+1843,MB,Farmstead,42.0,Inferno finish,,0,Firm Cheese,Cow,Pasteurized,No Rind,Red Hot Chili Pepper Jack,lower fat
+1844,MB,Farmstead,42.0,"Earthy, complex flavour with a rich, smooth finish",,0,Firm Cheese,Cow,Pasteurized,,Black Truffle,lower fat
+1845,MB,Farmstead,44.0,,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Mozzarella (Bothwell),lower fat
+1858,ON,Industrial,35.0,Flavour is sharp and piquant,Hard cheese with a granular interior and hard brittle rind,0,Hard Cheese,Cow,Pasteurized,,Romano (Thornloe),higher fat
+1859,ON,Industrial,35.0,Slightly sharp cheese with fruity flavor,Granular interior full of small holes,0,Firm Cheese,Cow,Pasteurized,,Asiago (Thornloe),higher fat
+1860,ON,Industrial,55.0,,,0,Hard Cheese,Cow,Pasteurized,,Asadero,lower fat
+1861,ON,Industrial,52.0,,,0,Soft Cheese,Cow,Pasteurized,,Burrata,lower fat
+1863,ON,Industrial,38.0,,,0,Firm Cheese,Goat,Pasteurized,,Santa Lucia Goat Cheese,lower fat
+1864,ON,Industrial,55.0,,,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Santa Lucia Goat Cheese Brie,higher fat
+1867,ON,Industrial,76.0,,,0,Fresh Cheese,Cow,Pasteurized,,Ranchero Fresh Cheese,lower fat
+1868,ON,Industrial,52.0,,,0,Fresh Cheese,Cow,Pasteurized,,Santa Lucia Tuma,lower fat
+1869,ON,Industrial,50.0,slightly salty and pleasantly sour taste,,0,Semi-soft Cheese,Cow,Pasteurized,,Queijo do Pico,lower fat
+1871,NS,Industrial,39.0,"Mild, medium ,old, old white, marble",,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar (Farmers Dairy),higher fat
+1872,ON,Industrial,47.0,"Sharp, tangy and slighty salty",,0,Firm Cheese,Cow,Thermised,,Blue Cheese (Rosenborg),lower fat
+1873,ON,Industrial,40.0,Slightly more salty taste and firmer texture than the blue cheese,,0,Firm Cheese,Cow,Pasteurized,,Gorgonzola (Castello),higher fat
+1876,ON,Industrial,52.0,,,0,Semi-soft Cheese,Cow,Pasteurized,,Bocconcini (International Cheese),lower fat
+1879,BC,Farmstead,27.0,"Sweet flavour, with hints of nuts and fruit",A hard cheese modeled after an Italian Piave with a dense grainy texture.,1,Hard Cheese,Cow,Raw Milk,Washed Rind,Mountain Grana,lower fat
+1880,BC,Farmstead,35.0,,"A firm cheese with mild earthy notes, a subtle creamy texture, and a pale golden interior.",1,Firm Cheese,Cow,Raw Milk,Washed Rind,"Nostrala ""Of This Place""",higher fat
+1881,BC,Farmstead,35.0,Smooth nut flavour,"It exhibits a smooth nut flavour, a complex finish, a rich golden interior and a dark textured rind.",1,Firm Cheese,Cow,Raw Milk,Washed Rind,"Alpindon ""Gift Of The Alpine""",higher fat
+1883,PE,Artisan,36.0,Full bodied flavours with a bite a the end.,Made with vegetarian-friendly microbial enzyme (binding cloth rubbed in lard).,0,Firm Cheese,Cow,Raw Milk,No Rind,Avonlea Clothbound Cheddar,higher fat
+1887,ON,Farmstead,37.0,-,100% whole milk is used in the manufacturing of our traditional cheese. Cheddars are naturally aged in underground storages.,0,Hard Cheese,Cow,Thermised,,Jensen Cheese (Wilton Cheese Factory),higher fat
+1888,QC,Farmstead,29.0,,,0,Semi-soft Cheese,Cow,Raw Milk,Washed Rind,Belle du Jersey (La),higher fat
+1889,QC,Farmstead,65.0,,,0,Semi-soft Cheese,Ewe,Raw Milk,Washed Rind,Berger du Fjord (Le),higher fat
+1890,QC,Farmstead,37.0,,"Granular cheese, with numerous little crevices.",0,Firm Cheese,Cow,Raw Milk,Washed Rind,Jersey du Fjord,higher fat
+1892,QC,Artisan,39.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Chénéville,higher fat
+1893,QC,Farmstead,45.0,"Salted, oil with Provence herbs and black pepper.",,0,Fresh Cheese,Goat,Pasteurized,No Rind,Bergeronds dans l'huile (Les),lower fat
+1895,QC,Farmstead,55.0,"Light taste of goat, butter and cream.",Creamy,0,Fresh Cheese,Goat,Pasteurized,No Rind,Agate de St-Damien (L'),lower fat
+1896,QC,Farmstead,50.0,,,0,Fresh Cheese,Goat,Pasteurized,,Brie de chèvre,lower fat
+1897,QC,Artisan,78.0,"Flavours of fresh goat milk, fine and subtle and slightly tart. Available plain, olive oil and garlic, rosemary, tellicherry pepper and lemongrass, unsalted.","White cheese, creamy and silky texture.",1,Fresh Cheese,Goat,Pasteurized,No Rind,Fromage Chèvre frais,lower fat
+1898,QC,Farmstead,45.0,Mild and lightly salted.,,0,Soft Cheese,Goat,Thermised,No Rind,Féta (Mes Petits Caprices),lower fat
+1899,QC,Farmstead,62.0,"Mild, light hint of goat.",,0,Semi-soft Cheese,Goat,Thermised,No Rind,Micherolle,lower fat
+1900,QC,Farmstead,60.0,Mild and floral taste becoming sharper with age,,0,Soft Cheese,Goat,Thermised,Bloomy Rind,Bûchette et Pyramide Mes Petits Caprices,lower fat
+1901,QC,Artisan,56.0,"Mild and delicate, becomes slightly tart over time.",,0,Fresh Cheese,Cow,Raw Milk,No Rind,Péningouin (Le),lower fat
+1902,QC,Industrial,47.0,Delicate taste of wild mushrooms.,"Supple and creamy, with an amber rind and a light earthy odor.",0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Bocké (Le),lower fat
+1904,QC,Artisan,64.0,,,0,Fresh Cheese,Ewe,Pasteurized,,Agnelle de Bayolle,lower fat
+1905,QC,Artisan,54.0,,,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Capri-Corne,lower fat
+1906,QC,Artisan,41.0,Plain or fine herbs,,0,Firm Cheese,Goat,Pasteurized,No Rind,Cheddar La Galipette,higher fat
+1907,QC,Artisan,54.0,,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Marie-Charlotte,lower fat
+1908,QC,Artisan,69.0,,,0,Fresh Cheese,Goat,Pasteurized,No Rind,Mon précieux,lower fat
+1909,QC,Artisan,39.0,,,0,Semi-soft Cheese,Ewe,Pasteurized,Washed Rind,Tomme de brebis (Fromagerie Couland),higher fat
+1910,QC,Artisan,56.0,,,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Petite Chevrette (La),lower fat
+1911,QC,Artisan,41.0,Plain,,0,Firm Cheese,Ewe,Pasteurized,No Rind,Brebiane,higher fat
+1912,QC,Artisan,70.0,"Plain, fine herbs or spices",,0,Fresh Cheese,Cow,Pasteurized,No Rind,Prés de Kildare,lower fat
+1913,QC,Artisan,56.0,,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,St-Émile,lower fat
+1914,QC,Artisan,56.0,,,0,Soft Cheese,Ewe,Pasteurized,Bloomy Rind,Ste-Geneviève,lower fat
+1915,QC,Artisan,54.0,,,0,Soft Cheese,Ewe,Pasteurized,Bloomy Rind,Ste-Élisabeth,lower fat
+1916,QC,Artisan,41.0,Plain,,0,Firm Cheese,Cow,Pasteurized,No Rind,Grain de Bayonne,higher fat
+1917,QC,Artisan,39.0,,,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Barthélemy (Le),higher fat
+1918,QC,Artisan,35.0,,,0,Firm Cheese,Goat,Pasteurized,Washed Rind,Tomme Ferlend,higher fat
+1919,QC,Artisan,64.0,"Plain, herbs or spices",,0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Fridolines,lower fat
+1920,QC,Artisan,41.0,Plain,,0,Firm Cheese,Goat,Pasteurized,No Rind,Grain caprin,higher fat
+1921,QC,Artisan,64.0,"Plain, fine herbs, spices",,0,Fresh Cheese,Cow,Pasteurized,No Rind,Joséphines,lower fat
+1922,QC,Artisan,41.0,"Plain, chive, fine herbs or spices",,0,Firm Cheese,Cow,Pasteurized,,Cheddar (Fromagerie Couland),higher fat
+1923,QC,Industrial,42.0,Light,Orange rind,0,Semi-soft Cheese,Cow,Pasteurized,,Saint-Paulin (Des Basques),lower fat
+1924,QC,Artisan,34.0,Fruit and hazelnut,Vegetable ash that goes through the center of the cheese.,0,Firm Cheese,Cow,Raw Milk,Washed Rind,Sirocco,higher fat
+1925,QC,Artisan,50.0,Cream and green apple,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Guillaume Tell (Le),lower fat
+1926,QC,Farmstead,46.0,,,0,Semi-soft Cheese,Cow,Thermised,Washed Rind,Raclette de Joliette (La),lower fat
+1928,QC,Farmstead,50.0,"Very soft and light, comparable to a brie.",,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Perle du Littoral (La),higher fat
+1929,QC,Farmstead,50.0,,Contains probiotics,0,Semi-soft Cheese,Cow,Pasteurized,,Rayon d'or,lower fat
+1930,QC,Artisan,48.0,Light taste of butter,Creamy,0,Soft Cheese,Cow,Raw Milk,Bloomy Rind,Caprice des vents,higher fat
+1931,QC,Artisan,57.0,Mild,Ash rind with a chalky and creamy texture,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Grey Owl,lower fat
+1934,QC,Artisan,41.0,Mild,"Fresh cheddar, in blocks or with grains",0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar en grains (SCA L'île-aux-Grues),higher fat
+1936,QC,Artisan,65.0,Mild,Creamy,0,Fresh Cheese,Ewe,Pasteurized,No Rind,Myzithra,lower fat
+1939,QC,Farmstead,35.0,"Hazelnut, fruity",,1,Firm Cheese,Cow,Raw Milk,Washed Rind,Louis d'Or,higher fat
+1940,QC,Artisan,43.0,Taste of lightly sweetened goat's milk.,,0,Firm Cheese,Goat,Pasteurized,,Moutier (Le),lower fat
+1941,QC,Artisan,50.0,Fresh milk and butter flavour.,Creamy,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Ange Gardien (L'),lower fat
+1942,ON,Artisan,42.8,,,1,,Cow,Pasteurized,Washed Rind,Rose Haus,lower fat
+1944,QC,Industrial,64.0,,"Creamy and fresh, this delicious locally-made cheese offers the traditional taste of Italy.",0,Fresh Cheese,Buffalo Cow,Pasteurized,No Rind,Mozzarina di Bufala,lower fat
+1945,QC,Industrial,80.0,"Fresh, rich milky taste","Pasta filata cheese, smooth and creamy texture",0,Fresh Cheese,Buffalo Cow,Pasteurized,No Rind,Bocconcini (Fiorella),lower fat
+1950,QC,Industrial,48.0,,"A white, rich and creamy body",0,Soft Cheese,Cow and Goat,Pasteurized,No Rind,Chèvre des Neiges (brie triple crème),higher fat
+1951,QC,Industrial,70.0,"Available in plain, Peppadew and garlic and fine herbs",Soft spreadable cheese,0,Fresh Cheese,Goat,Pasteurized,No Rind,Caprichef,lower fat
+1952,QC,Industrial,50.0,"Fresh butter, nut and corn taste",,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Camarades (Des),higher fat
+1954,QC,Industrial,45.0,A delicate and fruit flavoured,Small holes in the body,0,Firm Cheese,Cow,Pasteurized,,Tilsit,lower fat
+1956,QC,Industrial,55.0,It's lightly salty and tangy taste gives it a distinct flavour,"I'ts whitish body is soft, creamy, fine in texture and crumbly.  It comes immersed in a brine solution",0,Soft Cheese,Goat,Pasteurized,No Rind,Feta de chèvre (Alexis de Portneuf),lower fat
+1957,QC,Industrial,23.0,Slightly salty and tangy taste,"Pâte blanchâtre douce, crémeuse, finement texturée et friable, immergé dans la saumure",0,Soft Cheese,Ewe,Pasteurized,No Rind,Feta de brebis (Alexis de Portneuf),higher fat
+1958,QC,Industrial,52.0,Fresh subtle taste of oriental spices and exotic flavourings,"It is quite firm and dense, not very porous and milky white in color",0,Fresh Cheese,Cow,Pasteurized,No Rind,doré-mi,lower fat
+1959,QC,Industrial,20.0,A hazelnut taste accompanied by a woody fruity touch,"Orangy-red, hardly moist rind and a supple ivory body",0,Soft Cheese,Cow,Pasteurized,Washed Rind,Saint-Raymond (Le),higher fat
+1960,QC,Industrial,52.0,Fresh butter taste with a hint of mushrooms,Cheese with a moist and supple rind that ripens from the outside in and a runny ivory body,0,Soft Cheese,Cow,Pasteurized,,Sauvagine (La),higher fat
+1961,QC,Industrial,45.0,Mild tasting,An ivory coloured cheese delicately laced with Penicillium Roqueforti and covered in a white coat,0,Veined Cheeses,Cow,Raw Milk,Bloomy Rind,Caronzola,higher fat
+1962,QC,Industrial,37.0,Delicate blue taste and creamy flavour,Creamy and supple unique textured blue-veined body,0,Veined Cheeses,Cow,Pasteurized,,Météorite,higher fat
+1963,QC,Industrial,48.0,A strong blue,A firm cheese with delicate blue veins of Penicillium roqueforti and a melt in your mouth quality,0,Veined Cheeses,Cow,Pasteurized,,Roche Noire (La),lower fat
+1964,QC,Industrial,40.0,Has a nut taste,Smooth and flexible surface with round eyes distributed in the body,0,Firm Cheese,Cow,Pasteurized,No Rind,Emmental St-Guillaume,lower fat
+1965,QC,Industrial,39.0,Strong notes of butter and caramel,"Surface ripened, it has a supple and smooth texture",0,Firm Cheese,Cow,Pasteurized,Washed Rind,Cantolait,higher fat
+1966,QC,Farmstead,52.0,Flavours of warm cream with a vegetable note,"Has a smooth, melting paste",1,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Paysan,lower fat
+1967,QC,Farmstead,50.0,Exquisite creamy mushroom flavor,Melting paste,1,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Laliberté (triple crème),higher fat
+1974,ON,Industrial,38.0,A complexity of flavours ranging form salty to sweet and an overall tangy freshness with a creamy finish,"Has a creamy, smooth texture",0,,Cow,Pasteurized,,Devil's Rock (Creamy Blue Cheese),higher fat
+1975,ON,Industrial,42.0,Creamy sharp taste,Creamy cheese marbled with rich blue veins,0,Veined Cheeses,Cow,Pasteurized,,Casey (Blue Cheese),lower fat
+1976,ON,Industrial,42.0,Sharp taste,Is a goat cheese with blue veining,0,Veined Cheeses,Goat,Pasteurized,,Harley (Blue Goat Cheese),lower fat
+1977,ON,Industrial,37.0,Has a sharp robust flavour,Creamy white body,0,Hard Cheese,Goat,,,Charlton,higher fat
+1978,ON,Industrial,46.0,Creamy mushroom flavour,Has a striking streak of vegetable ash running through it,0,Soft Cheese,Cow,,Bloomy Rind,Evanturel,lower fat
+1979,ON,Industrial,40.0,"Flavourful cheese that is slightly sharp, yet mellow and creamy",Has a golden yellow body with small eyes,0,Soft Cheese,Cow,,,Temiskaming,lower fat
+1981,ON,Farmstead,65.0,"It comes in plain, mango chutney and pesto",Soft and spreadable goat cheese,0,Soft Cheese,Goat,Pasteurized,No Rind,Goat Cups (Celebrity International),lower fat
+1982,ON,Farmstead,46.0,Mediterranean style,,0,Firm Cheese,Goat,Pasteurized,No Rind,Goat Feta (Celebrity International),lower fat
+1983,ON,Farmstead,40.0,,,0,Hard Cheese,Goat,Pasteurized,No Rind,Goat Mozzarella (Celebrity Interantional),higher fat
+1992,QC,Farmstead,46.0,Creamy lactic flavour,,0,Semi-soft Cheese,Cow,Thermised,Washed Rind,Métayères (Les),lower fat
+1993,QC,Farmstead,46.0,Fruit and nut flavour,,0,Semi-soft Cheese,Cow,Thermised,,Amateur (L'),lower fat
+1994,QC,Artisan,63.0,"It comes in the following flavors: plain, herbed or roasted red peppers",Cream cheese,0,Soft Cheese,Ewe,Pasteurized,No Rind,Petite Folie (La),lower fat
+1995,QC,Industrial,48.0,Butter flavour,,0,Soft Cheese,Cow,,Washed Rind,Tentation de Laurier (La),higher fat
+1996,QC,Artisan,50.0,A mild taste of almonds,,0,Semi-soft Cheese,Cow and Goat,,Washed Rind,Tomme de Monsieur Séguin (La),lower fat
+1997,QC,Artisan,44.0,A hazelnut and salted butter flavour,,0,Firm Cheese,Cow,,Washed Rind,Vacherin Fri-Charco,lower fat
+1999,QC,Artisan,55.0,Mild cheese with a fresh creme taste,Melting texture,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Angelus,lower fat
+2000,QC,Artisan,61.0,Varies from one season to the next,Silky paste softens with time and its rind may show a dot of blue on the surface,1,Soft Cheese,Cow,,Bloomy Rind,Pont Blanc (Le),lower fat
+2001,QC,Industrial,37.0,Hazelnut flavour,,0,Firm Cheese,Cow,,No Rind,Grand Cheddar Réserve Spéciale,higher fat
+2002,QC,Industrial,50.0,,,0,Soft Cheese,Cow,,Bloomy Rind,Brie 4 Temps,higher fat
+2003,QC,Industrial,50.0,,,0,Soft Cheese,Cow,,Bloomy Rind,Camembert Petit Champlain (Le),lower fat
+2006,QC,Artisan,50.0,Farm cream taste,,0,Soft Cheese,Cow,,Bloomy Rind,Inspiré,lower fat
+2007,QC,Farmstead,42.0,Hazelnut flavour,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cheddar Littoral,higher fat
+2008,QC,Artisan,48.0,Mild flavour of scapes,Keeps it's initial shape and does not melt.,0,Firm Cheese,Cow,Pasteurized,Bloomy Rind,Fleur Saint-Michel,lower fat
+2009,QC,Artisan,43.0,Mild cheddar seasoned with fine herbs,,0,Firm Cheese,Cow,Pasteurized,No Rind,Honfleur,higher fat
+2010,QC,Artisan,38.0,,Mild cheddar smoked with maple wood,0,Firm Cheese,Cow,Pasteurized,No Rind,P'tit Bronzé,higher fat
+2011,QC,Artisan,43.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,St-Charles,higher fat
+2012,QC,Artisan,48.0,,Keeps it's original shape and does not melt,0,Firm Cheese,Cow,Pasteurized,Bloomy Rind,St-Valier (Le),lower fat
+2013,QC,Farmstead,46.0,Subtle butter and almond flavours,This supple cheese is ivory coloured and has a pleasing elaticity,0,Semi-soft Cheese,Cow,Pasteurized,Bloomy Rind,ChamPaître (Le),lower fat
+2014,QC,Farmstead,46.0,Fruity flavour compemented by hint of sugar and hazelnut,"La croûte est de couleur blé, sa pâte est souple et parsemée de petits yeux ronds",0,Semi-soft Cheese,Cow,Pasteurized,,Clef des Champs (La),lower fat
+2015,QC,Artisan,45.0,"It's flavour is reminiscent of Parmesan and Emmental cheeses, with a slightly citrusy aftertaste",It's texture is elastic and the rind is caramel coloured,0,Firm Cheese,Cow,Raw Milk,,Roy Léo,lower fat
+2016,QC,Artisan,48.0,"Hints of fresh cream and salted butter, with a flavour of black olives",,1,Soft Cheese,Cow,Raw Milk,Washed Rind,Ste-Anne,lower fat
+2017,QC,Farmstead,45.0,"Available in the folowing flavours: scapes, dried tomatoes and basil and spices",,0,Firm Cheese,Cow,Pasteurized,,Normandinoise (Le),higher fat
+2018,QC,Farmstead,39.0,,,0,Firm Cheese,Cow,Pasteurized,,Roméo (Le),higher fat
+2019,QC,Farmstead,41.0,Distinct floral and fruity aromas,,1,Firm Cheese,Cow,Thermised,,Chemin Hatley,higher fat
+2020,QC,Farmstead,43.0,Aroma of crab apples and butter,Copper coloured with an ivory-gold interior,1,Semi-soft Cheese,Cow,Thermised,,Comtomme,higher fat
+2022,QC,Artisan,54.0,Fresh buttery taste with a touch of tartness,"Dense white rind with a creamy, runny texture",0,Soft Cheese,Cow,Pasteurized,,Mélo Dieux (Le),lower fat
+2023,QC,Artisan,46.0,"Mild salty, buttery taste","Supple, ivry coloured with a pink waxed rind",0,Semi-soft Cheese,Cow,Pasteurized,,Rose,lower fat
+2024,QC,Artisan,55.0,"Mild flavour of hazelnuts, mushrooms and butter",,0,Soft Cheese,Cow,Pasteurized,,Brie Mont-Laurier,lower fat
+2025,QC,Artisan,45.0,Light nutty flavour,,0,Semi-soft Cheese,Cow,Pasteurized,,Voyageur (Le),lower fat
+2026,QC,Industrial,39.0,Fruity taste,,0,Firm Cheese,Cow,Pasteurized,No Rind,Pâturage (le),higher fat
+2027,QC,Artisan,44.0,,,0,Semi-soft Cheese,Cow,Pasteurized,,Belle-Mère (La),higher fat
+2028,QC,Artisan,68.0,,,0,Fresh Cheese,Cow,,,Cabrouet (Le),lower fat
+2029,QC,Industrial,40.0,,,0,Firm Cheese,Cow,Pasteurized,,Belle Brune de Charlevoix,lower fat
+2030,QC,Industrial,44.0,,Soft orange colour with a smooth and creamy texture,0,Firm Cheese,Cow,Pasteurized,No Rind,Oh Chiiz,lower fat
+2031,QC,Industrial,46.0,Subtle buttery flavour,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Polichinel (Le),lower fat
+2032,AB,Industrial,53.0,,,0,Fresh Cheese,Cow,Pasteurized,No Rind,Bocconcini (Franco's Brand),lower fat
+2033,QC,Industrial,50.0,Butter tast with a light touch of goat cream,Made from 50% goat milk and 50% cow milk,0,,Cow and Goat,,,Double Joie (Le),lower fat
+2034,QC,Artisan,38.0,Hazelnut flavour with a hint of fruit and cream,It has a thin ochre coloured crust and ivory body,0,Firm Cheese,Cow,Thermised,,Canotier de l'Isle,higher fat
+2035,QC,Farmstead,43.0,,,0,Semi-soft Cheese,Ewe,Raw Milk,,Tomme au Poivre,higher fat
+2036,QC,Farmstead,43.0,,,0,Semi-soft Cheese,Ewe,Raw Milk,Brushed Rind,Vlimeux (Le),higher fat
+2037,QC,Industrial,50.0,,,0,Fresh Cheese,Goat,Pasteurized,No Rind,Bûchette de Chèvre (La),lower fat
+2038,QC,Industrial,39.0,,,0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Cheddar Chèvre (Le),higher fat
+2039,QC,Industrial,55.0,,,0,Fresh Cheese,Goat,Pasteurized,No Rind,Chèvrai (Le),lower fat
+2040,QC,Industrial,60.0,Availble in roasted red peppers or cranberry and porto,,0,Fresh Cheese,Goat,Pasteurized,,Élite (L'),lower fat
+2041,QC,Industrial,52.0,Salty flavour,,0,Soft Cheese,Goat,Pasteurized,No Rind,Féta de Chèvre (Le),lower fat
+2042,QC,Industrial,42.0,,,0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Mozzarella Chèvre (Le),lower fat
+2043,QC,Industrial,40.0,,,0,Firm Cheese,Ewe,Raw Milk,Washed Rind,Allegretto (Le),lower fat
+2044,QC,Industrial,50.0,,,0,Soft Cheese,Goat,Pasteurized,Washed Rind,Fumambule (Le),lower fat
+2045,QC,Industrial,50.0,,,0,Soft Cheese,"Cow, Goat and Ewe",Pasteurized,,Grand Manitou (Le),lower fat
+2046,QC,Artisan,40.0,,,0,,Goat,,,Boucané (Le),lower fat
+2049,QC,Artisan,41.0,,,0,,Goat,,,Tomme du Draveur (La),lower fat
+2053,QC,Artisan,55.0,,,0,Fresh Cheese,Cow,Raw Milk,Bloomy Rind,Gaulois de Portneuf (Le),lower fat
+2054,QC,Artisan,42.0,,,0,Firm Cheese,Ewe,Pasteurized,,Manchebello,higher fat
+2055,QC,Artisan,45.0,,,0,Veined Cheeses,Cow,Pasteurized,,Rébellion 1837,higher fat
+2056,QC,Artisan,42.0,,Cheese curds,0,Fresh Cheese,Cow,Pasteurized,No Rind,Fromage (Montebello),higher fat
+2057,QC,Artisan,48.0,,,0,Semi-soft Cheese,Cow,Pasteurized,,Tête à Papineau,lower fat
+2058,QC,Artisan,45.0,,,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,20 Vaches (Le),higher fat
+2059,QC,Artisan,50.0,,,0,,Goat,Pasteurized,Bloomy Rind,Ma Manière (Le),lower fat
+2060,ON,Artisan,42.6,Available in Cumin and jalapino spices,,0,Hard Cheese,Goat,,,Farm Cheese,lower fat
+2070,ON,Artisan,,,,0,Soft Cheese,Ewe,Pasteurized,Bloomy Rind,Sheep In The Meadow (Best Baa Dairy),lower fat
+2071,ON,Artisan,75.0,,,0,Fresh Cheese,Ewe,Pasteurized,No Rind,Quark (Best Baa Dairy),lower fat
+2076,AB,Industrial,52.0,,,0,,Cow,,No Rind,Mozarella (Franco's Brand),lower fat
+2077,AB,Industrial,45.0,,,0,,Cow,,,Provoletta (Franco's Brand),lower fat
+2086,MB,Farmstead,42.0,,,0,,Cow,,,Muenster (Bothwell),lower fat
+2088,BC,Artisan,43.0,Available smoked,,0,Firm Cheese,Cow,,,Boerenkaas,higher fat
+2089,BC,Artisan,39.0,,,0,Firm Cheese,Cow,,No Rind,Courtenay Cheddar,higher fat
+2090,BC,Artisan,60.0,,,0,Fresh Cheese,Cow,,No Rind,Fior di Latte (Natural Pastures Cheese Company),lower fat
+2094,NL,Industrial,40.0,,,0,,Cow,,No Rind,Swiss (Central Dairies),lower fat
+2101,ON,Industrial,37.0,,,0,,Cow,,No Rind,Cheddar (Tres Stelle),higher fat
+2103,ON,Industrial,46.0,,,0,,Cow,,,Edam (Tres Stelle),lower fat
+2104,ON,Industrial,42.0,,,0,,Cow,,,Fruilano (Tres Stelle),lower fat
+2105,ON,Industrial,60.0,,,0,Fresh Cheese,Goat,,,Goat Cheese (Tres Stelle),lower fat
+2106,ON,Industrial,37.0,,,0,Firm Cheese,Cow,,,Montasio (Tres Stelle),higher fat
+2108,ON,Industrial,21.0,,,0,Hard Cheese,Ewe,,,Romano (Tres Stelle),higher fat
+2109,QC,Industrial,46.0,,,0,Firm Cheese,Cow,,,Rivière Rouge d'Oka,lower fat
+2110,QC,Industrial,38.0,,,0,Firm Cheese,Cow,,Washed Rind,Seigneurie du Lac-des-Deux-Montagnes (La) d'Oka,lower fat
+2111,QC,Industrial,39.0,,,0,Firm Cheese,Cow,,,Tomme des Cantons (Fromagerie 1860 Du Village) Saputo,higher fat
+2112,QC,Industrial,50.0,,,0,Soft Cheese,Cow,,Bloomy Rind,Trappeur (Le) Camembert Double crème,higher fat
+2113,QC,Industrial,50.0,,,0,Soft Cheese,Cow,,Bloomy Rind,Trappeur (Le) Brie Double crème,higher fat
+2114,QC,Industrial,86.0,,,0,Fresh Cheese,Cow,,No Rind,Quark cheese (Damafro),lower fat
+2115,QC,Industrial,50.0,,,0,Soft Cheese,Cow,,,Manoir (Le) Brie Double crème,higher fat
+2116,QC,Industrial,38.0,,,0,Fresh Cheese,Cow,,,Crémeux (Le),higher fat
+2117,QC,Industrial,26.0,,,0,,Cow,,,Fruitier de Montérégie,higher fat
+2118,QC,Industrial,25.0,,,0,Soft Cheese,Cow,,No Rind,Coeur de Brie,higher fat
+2128,NS,Industrial,40.0,,,0,,Cow,,No Rind,Swiss (Farmers Cooperative Dairy),lower fat
+2137,QC,Farmstead,36.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Ménestrel (Le),higher fat
+2141,BC,Artisan,40.0,,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Aged Farmhouse,higher fat
+2144,QC,Artisan,54.0,,,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Brie Marie-Charlotte,lower fat
+2146,QC,Industrial,42.0,,Grilling cheese,0,Firm Cheese,Cow,Pasteurized,,Démon (Le),lower fat
+2152,QC,Artisan,72.0,,,0,Fresh Cheese,Goat,,,Paysanne (La),lower fat
+2158,QC,Artisan,42.0,Nutty flavour,,0,Semi-soft Cheese,Goat,Pasteurized,,Du Charme,lower fat
+2160,QC,Farmstead,47.0,Fresh butter and almond,,0,Soft Cheese,Cow,Raw Milk,,Tremblay (Le),higher fat
+2217,QC,Industrial,32.0,Fruity sharp taste,,0,Hard Cheese,Cow,,No Rind,Parmesan Rivièra,lower fat
+2218,QC,Industrial,54.0,,,0,,Cow,,,Origine de Charevoix (L'),lower fat
+2224,QC,Artisan,33.0,,,0,Firm Cheese,Ewe,,Washed Rind,Tomme de Brebis de Charlevoix,higher fat
+2225,QC,Artisan,41.0,,,0,Veined Cheeses,Ewe,,,Bleu de Brebis de Charlevoix (Le),lower fat
+2228,BC,Artisan,30.0,Saveur de noisette,,0,Firm Cheese,Cow,Pasteurized,No Rind,Parmadammer,higher fat
+2266,ON,Artisan,42.0,"Light taste, a caramel like flavor, with a mild saltiness","Cream colored body with a smooth, firm texture",0,Hard Cheese,Goat,Pasteurized,No Rind,Golden Blyth,lower fat
+2267,NB,Farmstead,50.0,"It has a light fruity flavor which becomes more pronounced with time.  It is also available in cumin, pepper and mustard flavor.",It is a semi-soft cheese with a brushed natural rind.,1,Semi-soft Cheese,Goat,Pasteurized,Brushed Rind,Tomme Blanche,lower fat
+2268,NB,Farmstead,50.0,"Mild, light and delicate taste of mushrooms and nuts.",,0,Soft Cheese,Goat,Pasteurized,,Tintamarre (Le),lower fat
+2269,NB,Farmstead,50.0,Light nutty flavor becoming drier and sharper with age,It's bloomy ivory rind can become spekled with blue when aging.,1,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Petit Bayou (Le),lower fat
+2270,NB,Farmstead,50.0,Light fruity taste becoming more pronounced with age.,,0,Soft Cheese,Goat,Pasteurized,No Rind,Choupet's (Le),lower fat
+2271,NB,Farmstead,50.0,Light and fruity flavor.,Ash rind.,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Saint Manu (Le),lower fat
+2272,NB,Farmstead,50.0,It is lightly salted and comes in plain or garlic and chives.,It is creamy and spreadable.,0,Fresh Cheese,Goat,Pasteurized,No Rind,Faisselles (Les),lower fat
+2273,NB,Farmstead,50.0,Mild taste becoming stronger with age.,,0,Firm Cheese,Goat,Pasteurized,No Rind,Cheddar,lower fat
+2274,NB,Farmstead,50.0,Light and salty.,,0,Fresh Cheese,Goat,Pasteurized,No Rind,Fromage en grain,lower fat
+2275,NB,Farmstead,50.0,Mild flavor.,Lactic goat cheese.,0,Soft Cheese,Goat,Pasteurized,No Rind,Barbizon (Le),lower fat
+2276,NB,Farmstead,50.0,Mild mushroom and nut flavour.,Bloomy white rind.,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Cabriolet (Le),lower fat
+2277,NB,Farmstead,50.0,Young it has a light nutty flavor becoming more pungent with age.,,0,Soft Cheese,Goat,Pasteurized,Bloomy Rind,Acadiac (L'),lower fat
+2278,NB,Farmstead,50.0,"Fresh milk flavor, available in the following versions: Paprika and fines herbs",Fresh goat ladle-molded.,0,Fresh Cheese,Goat,Pasteurized,No Rind,Petit Frais (Le),lower fat
+2279,NB,Farmstead,50.0,Garlic and pepper flavor.,,0,Semi-soft Cheese,Goat,Pasteurized,Bloomy Rind,Forban (Le),lower fat
+2280,NB,Farmstead,50.0,,It has a firm and chalky texture.,0,Firm Cheese,Goat,Pasteurized,No Rind,Feta,lower fat
+2281,QC,Artisan,33.0,Candied fruit flavor with hints of caramel.,,1,Firm Cheese,Cow,Raw Milk,,Frère Chasseur (Le),higher fat
+2282,QC,Artisan,42.0,,,0,Firm Cheese,Cow,Pasteurized,,Benedictus (Le),higher fat
+2283,ON,Farmstead,50.0,Buttery taste,Creamy and smoothe,0,Fresh Cheese,Ewe,Pasteurized,,Sheep Feta,lower fat
+2284,ON,Farmstead,35.0,A hint of natural sweetness,Smoothe and creamy,0,Fresh Cheese,Goat,Pasteurized,,Chèvre,lower fat
+2285,QC,Farmstead,44.0,,,0,Firm Cheese,Cow,,No Rind,Fou Raide (Le),lower fat
+2286,QC,Farmstead,42.0,Subtle buttery flavor.,,0,,Cow,,No Rind,Ayoye!,lower fat
+2287,QC,Farmstead,39.0,"Available in mild, medium, old and extra old",,0,Firm Cheese,Cow,,No Rind,Tiguidou,higher fat
+2288,QC,Farmstead,44.0,,,0,Firm Cheese,Cow,,No Rind,Skouik!,lower fat
+2289,QC,Farmstead,43.0,Light almond and cream flavor,,0,,Cow,,Washed Rind,Menoum!,lower fat
+2290,QC,Farmstead,55.0,,,0,Firm Cheese,Cow,,No Rind,Ben d'Adon!,lower fat
+2291,QC,Farmstead,52.0,,,0,Firm Cheese,Cow,,No Rind,Mamamia!,lower fat
+2292,QC,Farmstead,40.0,,,0,Hard Cheese,Cow,,No Rind,Rightrou!,lower fat
+2293,QC,Farmstead,39.0,,,1,Hard Cheese,Cow,,No Rind,Cheddar,higher fat
+2294,QC,Farmstead,40.0,,,1,Hard Cheese,Cow,,No Rind,Swiss,lower fat
+2295,QC,Farmstead,52.0,,,1,Firm Cheese,Cow,,,Mozzarella,lower fat
+2296,QC,Farmstead,55.0,,,1,Firm Cheese,Cow,,No Rind,Judicieux (Le),lower fat
+2297,QC,Farmstead,43.0,,,1,Hard Cheese,Cow,,No Rind,Gouda,lower fat
+2298,QC,Industrial,50.0,A distinctive touch of salt and spices,,0,Firm Cheese,Cow,Pasteurized,No Rind,Baya,lower fat
+2299,QC,Industrial,35.0,"It is pickled in brine, which gives it a special salty taste.  Also available in BBQ",,0,Firm Cheese,Cow,Pasteurized,No Rind,Tortillon,higher fat
+2300,QC,Artisan,67.0,A light taste of garlic and herbs,It is a fresh spreadable cheese,0,Fresh Cheese,Cow,Pasteurized,No Rind,Fréchette,lower fat
+2301,QC,Artisan,35.0,Mild butter flavour,,0,Firm Cheese,Ewe,Thermised,Washed Rind,Zacharie Cloutier,higher fat
+2302,QC,Farmstead,43.0,It has a fruity flavor,,0,Semi-soft Cheese,Ewe,Pasteurized,Washed Rind,Douce Folie,lower fat
+2303,QC,Farmstead,61.0,,,0,Fresh Cheese,Ewe,Pasteurized,No Rind,Fetaccompli,lower fat
+2304,QC,Farmstead,72.0,"It is available in the following flavors: fine herbs, olives or sun dried tomatoes",,0,Fresh Cheese,Ewe,Pasteurized,No Rind,Petit Péché (Le),lower fat
+2305,QC,Farmstead,47.0,Light nutty taste,,0,Semi-soft Cheese,Ewe,Pasteurized,Bloomy Rind,Petitrond,lower fat
+2306,QC,Farmstead,43.0,,,0,Fresh Cheese,Ewe,Pasteurized,No Rind,Fromage Frais,lower fat
+2307,QC,Industrial,58.0,"It has flavous of butter, fresh mushrooms and hazelnuts that become more pronounced with age",It has a bloomy rind with a creamy interior,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Légère Brise du Matin,lower fat
+2308,QC,Industrial,34.0,"It exudes rich nutty, buttery touches, and its orange rind gives it a melt in your mouth caramel flavour",It is a hard cheese with a orangy washed rind,0,Firm Cheese,Cow,Pasteurized,Washed Rind,Pacific Rock,higher fat
+2309,QC,Industrial,50.0,"A perfect harmonie of mushrooms, cream and fresh butter flavours",It is a soft cheese with a washed rind,0,Soft Cheese,Cow,Pasteurized,Washed Rind,Le Reflet de Portneuf,higher fat
+2310,QC,Industrial,50.0,"A farm butter taste of warm milk, with aromas of freshly churned soil and forest mushrooms mingle",This is a soft triple cream cheese with a bloomy ashen rind,0,Soft Cheese,Cow,Pasteurized,Bloomy Rind,Étoile de Saint-Raymond L',higher fat
+2311,QC,Industrial,60.0,The taste of the cheese is made richer and milder by the roundness of the flavour imparted by fresh cow's milk,,0,Fresh Cheese,Cow and Goat,,No Rind,Mi Chèvre-Mi Vache,lower fat
+2316,QC,Industrial,60.0,,,0,Soft Cheese,Cow,Pasteurized,No Rind,Crème Grand Cheddar,lower fat
+2317,BC,Artisan,38.0,Mild buttery flavour with a good kick of chillies,Artisan cheese,0,Firm Cheese,Cow,Pasteurized,No Rind,Oo La La Hot Jill,higher fat
+2318,BC,Artisan,38.0,Buttery flavour with hints of red wine,Artisanal cheese,0,Firm Cheese,Cow,Pasteurized,,Tipsy Jill,higher fat
+2319,NS,Artisan,40.0,Mushroomy flavour,A mild exceptionally creamy blue,0,Semi-soft Cheese,Cow,Pasteurized,,Urban Blue,higher fat
+2320,QC,Industrial,55.0,with fine herbs,Stabalized,0,Soft Cheese,Cow,Pasteurized,No Rind,Allegro 4%,lower fat
+2321,QC,Artisan,42.0,Natural smoked flavour,,0,,Cow,Pasteurized,,Bleu Fumé,higher fat
+2325,QC,Artisan,42.0,Pronounced taste,,0,Semi-soft Cheese,Cow,Pasteurized,,Bleu Extra-Fort,higher fat
+2326,QC,Industrial,39.0,Nutty flavour becoming more pungent with age,,0,Firm Cheese,Cow,Pasteurized,No Rind,Raftman,higher fat
+2327,QC,Artisan,39.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Fontaine (La),higher fat
+2328,QC,Artisan,41.0,Lightly salted,,0,Fresh Cheese,Cow,Pasteurized,No Rind,Fromage en grain,higher fat
+2329,QC,Industrial,39.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Albert Hébert (1ière génération),higher fat
+2330,QC,Industrial,39.0,Nutty flavour becoming more pungent with age,,0,Firm Cheese,Cow,Pasteurized,No Rind,Donna Hébert (2ième génération),higher fat
+2331,QC,Industrial,39.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Gilles Hébert (3ième génération),higher fat
+2332,QC,Industrial,39.0,,,0,Firm Cheese,Cow,Pasteurized,No Rind,Mario Hébert (4ième génération),higher fat
+2333,QC,Artisan,43.0,Natural smoked flavour,,0,Firm Cheese,Cow,Pasteurized,,Fontina Fumé,higher fat
+2334,QC,Industrial,40.0,Mild and fruity flavour,,0,Firm Cheese,Cow,Pasteurized,No Rind,Cogruet,lower fat
+2335,QC,Industrial,39.0,Roasted garlic taste,,0,Firm Cheese,Cow,Pasteurized,Bloomy Rind,Tomme des cantons,higher fat
+2341,QC,Farmstead,75.0,,,0,Fresh Cheese,Cow,Pasteurized,No Rind,p'tit blanchon (le),lower fat
+2342,QC,Artisan,50.0,Milk and cream flavour,,0,Fresh Cheese,Cow,Pasteurized,Bloomy Rind,Pont Tournant (Le),lower fat
+2343,QC,Artisan,58.0,Nutty flavour,,0,Fresh Cheese,Cow,Pasteurized,Bloomy Rind,Côte-Sud (Le),lower fat
+2344,QC,Artisan,56.0,,It has a white duvet crust,0,Soft Cheese,Cow,Pasteurized,,L'Aubert de Gaspé,lower fat
+2345,QC,Industrial,42.0,Smoked in maple wood,,0,Semi-soft Cheese,Cow,Pasteurized,,Trésor du Fumoir,lower fat
+2346,QC,Farmstead,45.0,,,0,Semi-soft Cheese,Cow,Thermised,,Religieuse,higher fat
+2347,QC,Artisan,50.0,Mild almond flavour,,0,,Ewe,Pasteurized,,Fleur des Monts (Les),higher fat
+2348,QC,Artisan,40.0,Mild flavoured,,0,,Ewe,Pasteurized,,Bleu (Le),lower fat
+2349,QC,Artisan,50.0,"It explodes with vanilla flavour to start, then goes through a strong espresso flavour to finish with a delicious dark chocolate taste.",,0,Semi-soft Cheese,Cow,Pasteurized,Washed Rind,Récompense (La),lower fat
+2351,QC,Industrial,55.0,,,0,Semi-soft Cheese,Cow,Pasteurized,No Rind,Allégro 7%,lower fat
+2352,QC,Farmstead,46.0,It has a caramalized buttery flavour.,,0,Semi-soft Cheese,Cow,Pasteurized,,Ballot (Le),lower fat
+2354,QC,Farmstead,41.0,Flavour of nuts and cream,,0,Firm Cheese,Cow,Pasteurized,,Fleur de Weedon (La),lower fat
+2355,QC,Farmstead,42.0,Nutty flavour,,0,Firm Cheese,Cow,Pasteurized,No Rind,Épave (L'),lower fat
+2356,QC,Artisan,39.0,Its taste has hints of mushrooms and nuts.,,0,Firm Cheese,Cow,Thermised,Brushed Rind,Herman (Le),higher fat
+2357,QC,Artisan,40.0,The cheese is a little salty with notes of wine and hazelnut,,0,Semi-soft Cheese,Cow,Thermised,,Porto Bleu (Le),lower fat
+2358,QC,Artisan,46.0,A subtle taste of almond and milk,,0,Firm Cheese,Cow,Thermised,,Tablée (La),lower fat
+2359,QC,Artisan,40.0,This cheese has a hazelnut flavour and is slightly salty,,0,Semi-soft Cheese,Ewe,Raw Milk,,Étoile Bleue de Saint-Rémi (L'),lower fat
+2360,NB,Farmstead,50.0,With a pepper and garlic flavour,Creamy cheese with pepper and garlic,0,Fresh Cheese,Goat,Pasteurized,,Poivroux (Le),lower fat
+2361,NB,Farmstead,50.0,Mild flavour,,0,Soft Cheese,Goat,Pasteurized,,Petit lardé (Le),lower fat
+2362,QC,Farmstead,68.0,,,0,Semi-soft Cheese,Ewe,,Washed Rind,Gigot (Le),higher fat
+2372,AB,Farmstead,55.0,"This cheese is available in the following flavours: Tomato Basil, Herb and Garlic, Peppercorn, olive as well as plain",It is tangy and salty with a smooth creamy texture.,0,Semi-soft Cheese,Goat,Pasteurized,No Rind,Traditional Feta,lower fat
+2374,QC,Industrial,39.0,"Hazelnut taste that sharpens with age. Available: mild, medium, strong, extra-strong 1 year, 2 years and 3 years",,1,Firm Cheese,Cow,Thermised,No Rind,"Cheddar (Biobio) - Mild, medium and strong",higher fat
+2375,QC,Industrial,43.0,"Young, mild-tasting soft cheese",,1,Firm Cheese,Cow,Thermised,No Rind,Gouda (Biobio),lower fat
+2376,SK,Artisan,17.0,"Salty with a slightly lemony flavour profile. It's excellent on barbecued burgers or grilled salmon, with watermelon salads, and is an excellent addition to any summer recipe. Made from Saskatchewan",,0,Soft Cheese,Cow,Pasteurized,,Coteau Hills Creamery Balkan Feta Style,higher fat
+2377,AB,Artisan,31.0,"Dill, buttery and creamy lactic flavor",Daily fresh,0,Firm Cheese,Cow,Pasteurized,No Rind,Dill Cheddar,higher fat
+2378,AB,Artisan,31.0,"Garlic, buttery and creamy lactic flavor",Daily fresh,0,Firm Cheese,Cow,Pasteurized,No Rind,Garlic Cheddar,higher fat
+2379,AB,Artisan,42.0,"Slightly salted, whey aftertaste",Daily Fresh,0,,,,,Cheese Curds,higher fat
+2380,AB,Artisan,40.0,"Smoky, buttery and creamy lactic flavor",Daily Fresh,0,Firm Cheese,Cow,Pasteurized,No Rind,Smoky/Smoke Cheddar (Apple Wood),higher fat
+2381,NB,Farmstead,50.0,,Trapezoidal-shaped cheese with a washed orange rind and complex fruity aromas.,0,Semi-soft Cheese,Goat,Pasteurized,Washed Rind,Cancre,lower fat
+2382,NB,Farmstead,50.0,,A cheese with a strong taste,0,Semi-soft Cheese,Goat,Pasteurized,,Brigand,lower fat
+2383,NB,Farmstead,50.0,Mild and creamy taste,Ashed cheese with maritime pine ashes,0,Soft Cheese,Goat,Pasteurized,,Gavroche,lower fat
+2384,NB,Farmstead,50.0,Maple Hazelnut,Fresh goat ladle-molded,0,Soft Cheese,Goat,Pasteurized,,Petit frais aux noix et sirop d'érable,lower fat
+2385,NB,Farmstead,50.0,pepper and garlic,Small aperitif cheese balls,0,Semi-soft Cheese,Goat,Pasteurized,,Petits caprice,lower fat
+2386,NB,Farmstead,50.0,Unsweetened cranberry,Fresh goat ladle-molded,0,Fresh Cheese,Goat,Pasteurized,,Petit frais aux canneberges,lower fat
+2387,NS,Farmstead,37.0,"Dill, Caraway, Chili Pepper, Cumin, Sage, Chives, Peppercorn, Poppy Seed and Garlic, Blueberry and Cranberry.",Fresh curds through a variety of added Organic Herbs and Spices to the Mature Aged Cheddar with a rich mellow nutty flavour.,1,Hard Cheese,Cow,Pasteurized,,Knoydart,higher fat
+2388,AB,Industrial,46.0,Mild and Deep Flavor,Low in Sodium and Fat,0,Fresh Cheese,Cow,Pasteurized,,FRESK-O,lower fat
+2389,NS,Artisan,40.0,Grassy tang and restrained saltiness that reflects the land and sea of Nova Scotia.,,0,Veined Cheeses,Ewe,Thermised,,Electric Blue,higher fat
+2390,NS,Artisan,34.0,Sweet and tangy flavours combine with hoppy notes.,,0,Semi-soft Cheese,Ewe,Thermised,Washed Rind,Hip Hop,higher fat
+2391,AB,Artisan,31.5,"Available in different flavor: original, herb and garlic, chive and onion, BBQ, dill and chili.",Soft Squeaky Fresh Cheese.,0,Fresh Cheese,Cow,Pasteurized,No Rind,Super Fresh Cheese Curds,higher fat
